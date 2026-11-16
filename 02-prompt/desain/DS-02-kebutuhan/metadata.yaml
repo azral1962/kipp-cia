@@ -1,0 +1,9 @@
+id: DS-02
+name: Analisis Kebutuhan
+category: desain
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- desain
+description: Menurunkan kebutuhan yang dapat diperiksa dari masalah akademik.

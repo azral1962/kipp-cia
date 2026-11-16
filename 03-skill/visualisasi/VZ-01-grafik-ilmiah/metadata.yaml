@@ -1,0 +1,9 @@
+id: VZ-01
+name: Grafik Ilmiah
+category: visualisasi
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- visualisasi
+description: Membuat grafik frekuensi yang dapat ditelusuri ke data.

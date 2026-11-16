@@ -1,0 +1,16 @@
+# Templat Alur Kerja
+
+## Masalah dan sasaran
+...
+
+## Peran manusia dan AI
+...
+
+## Urutan tahap dan skill
+...
+
+## Bukti hasil tiap tahap
+...
+
+## Pemeriksaan akhir
+...

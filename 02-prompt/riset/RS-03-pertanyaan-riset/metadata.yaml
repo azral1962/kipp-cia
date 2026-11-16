@@ -1,0 +1,9 @@
+id: RS-03
+name: Pertanyaan Riset
+category: riset
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- riset
+description: Mengubah topik umum menjadi pertanyaan yang bisa dijawab dengan bukti.

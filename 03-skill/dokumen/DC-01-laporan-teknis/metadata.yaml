@@ -1,0 +1,9 @@
+id: DC-01
+name: Laporan Teknis
+category: dokumen
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- dokumen
+description: Mendokumentasikan metode dan hasil analisis agar dapat diperiksa ulang.

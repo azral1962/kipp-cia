@@ -1,0 +1,9 @@
+id: SL-01
+name: Slide Presentasi
+category: presentasi
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- presentasi
+description: Menjelaskan hasil analisis singkat kepada teman sekelas.

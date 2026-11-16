@@ -1,0 +1,9 @@
+id: IM-05
+name: Verifikasi Implementasi
+category: implementasi
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- implementasi
+description: Memeriksa kode terhadap hasil acuan dan kasus batas.

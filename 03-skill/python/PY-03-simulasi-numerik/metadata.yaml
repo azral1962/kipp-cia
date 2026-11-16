@@ -1,0 +1,9 @@
+id: PY-03
+name: Simulasi Numerik Python
+category: python
+version: 0.1.0
+status: draft
+authors: [contoh-mahasiswa]
+reviewers: []
+tags: [python, simulasi, numerik]
+description: Membuat simulasi numerik yang dapat dijalankan dan diuji ulang.

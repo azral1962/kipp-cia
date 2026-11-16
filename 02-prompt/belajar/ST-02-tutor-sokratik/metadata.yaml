@@ -1,0 +1,9 @@
+id: ST-02
+name: Tutor Sokratik
+category: belajar
+version: 0.1.0
+status: draft
+authors: [contoh-mahasiswa]
+reviewers: []
+tags: [belajar, dialog, pemahaman]
+description: Membimbing penalaran mahasiswa melalui pertanyaan bertahap.

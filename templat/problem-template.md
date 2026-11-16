@@ -1,0 +1,19 @@
+# Templat Masalah dan Penyelesaian
+
+## Masalah dan konteks
+...
+
+## Tujuan dan batasan
+...
+
+## Pengetahuan yang dibutuhkan
+...
+
+## Alternatif dan pilihan metode
+...
+
+## Hasil dan bukti
+...
+
+## Refleksi
+...

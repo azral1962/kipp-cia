@@ -1,0 +1,19 @@
+# Templat Pengetahuan
+
+## Konsep dan taksonomi
+...
+
+## Penjelasan dengan kata sendiri
+...
+
+## Prasyarat dan relasi konsep
+...
+
+## Sumber rujukan
+...
+
+## Contoh penerapan
+...
+
+## Status validasi
+...

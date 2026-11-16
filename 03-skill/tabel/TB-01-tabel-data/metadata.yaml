@@ -1,0 +1,9 @@
+id: TB-01
+name: Tabel Data
+category: tabel
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- tabel
+description: Menyajikan frekuensi dan total dalam tabel yang bisa diperiksa.

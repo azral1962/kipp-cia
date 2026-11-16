@@ -1,0 +1,9 @@
+id: VD-01
+name: Video Penjelasan
+category: video
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- video
+description: Merekam penjelasan pendek yang bisa ditinjau sebelum dibagikan.

@@ -1,0 +1,9 @@
+id: PP-01
+name: Argumentasi Ilmiah
+category: karya-ilmiah
+version: 0.1.0
+status: draft
+tags:
+- bayes
+- karya-ilmiah
+description: Memeriksa hubungan antara klaim, bukti, dan keterbatasan.
