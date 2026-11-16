@@ -209,12 +209,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> 08-aplikasi/skrip/bangun_dokumentasi.py</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> <span class="at">-m</span> http.server 8000 <span class="at">--bind</span> 127.0.0.1</span></code></pre></div><button title="Salin ke Papan Klip" class="code-copy-button"><i class="bi"></i></button></div>
 <p>Buka <code>http://127.0.0.1:8000/</code> agar pencarian Quarto berfungsi. Simpan <code>index.html</code>, <code>search.json</code>, dan folder <code>dokumentasi-web/</code> bersama-sama. Lingkungan virtual, konfigurasi tersembunyi lokal, dan direktori data pribadi dikecualikan dari pemindaian.</p>
-<p>Bot Telegram contoh (opsional; hanya <code>/help</code> dan <code>/find</code>, belum menggunakan AI):</p>
+<p>Bot Telegram katalog (opsional):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">pip</span> install <span class="at">-e</span> <span class="st">'.[bot]'</span></span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cp</span> .env.example .env</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="co"># isi token dan ID grup yang diizinkan di .env</span></span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> <span class="at">-m</span> bot.telegram_bot</span></code></pre></div><button title="Salin ke Papan Klip" class="code-copy-button"><i class="bi"></i></button></div>
-<p><strong>Catatan:</strong> Bot contoh tidak merekam pesan grup, tidak memantau percakapan pasif, dan tidak terhubung dengan Ollama. Kemampuan tersebut harus ditambahkan dengan izin, pemberitahuan, kontrol akses, dan pengujian yang sesuai.</p>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="co"># isi TELEGRAM_BOT_TOKEN_CI di .env</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> cia.py</span></code></pre></div><button title="Salin ke Papan Klip" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Bot merespons perintah di grup dan supergrup yang menambahkannya. Lihat <code>bot/README.md</code> untuk daftar perintah dan prosedur perpindahan dari bot forum lama.</p>
 </section>
 <section id="peta-repositori" class="level2">
 <h2 class="anchored" data-anchor-id="peta-repositori">Peta repositori</h2>

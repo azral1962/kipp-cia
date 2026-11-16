@@ -207,7 +207,7 @@
     "href": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html#tahap-3-forum-dan-ai-lokal-opsional",
     "title": "Rencana Implementasi untuk Codex",
     "section": "Tahap 3: forum dan AI lokal (opsional)",
-    "text": "Tahap 3: forum dan AI lokal (opsional)\n\nBatasi bot pada daftar grup yang diizinkan; terima perintah pengguna saja.\nTambahkan /ask dan /summary hanya setelah ada rancangan privasi, sumber RAG, dan pengujian.\nSambungkan Ollama melalui antarmuka layanan terpisah.\nReview manusia wajib sebelum menerbitkan materi menjadi pengetahuan terverifikasi.\n\nUji layanan Ollama dengan data sintetis secara lokal sebelum menyambungkannya ke bot. Tetapkan pemberitahuan bagi peserta, persetujuan, kelompok yang diizinkan, sumber katalog yang boleh dipakai, dan prosedur pemeriksaan manusia sebelum menguji dengan materi forum.\nTiap tahap: spesifikasi → implementasi → tes → review → dokumentasi → persetujuan."
+    "text": "Tahap 3: forum dan AI lokal (opsional)\n\nTerima perintah pengguna dari grup dan supergrup yang menambahkan bot.\nTambahkan /ask dan /summary hanya setelah ada rancangan privasi, sumber RAG, dan pengujian.\nSambungkan Ollama melalui antarmuka layanan terpisah.\nReview manusia wajib sebelum menerbitkan materi menjadi pengetahuan terverifikasi.\n\nUji layanan Ollama dengan data sintetis secara lokal sebelum menyambungkannya ke bot. Tetapkan pemberitahuan bagi peserta, persetujuan, kelompok yang diizinkan, sumber katalog yang boleh dipakai, dan prosedur pemeriksaan manusia sebelum menguji dengan materi forum.\nTiap tahap: spesifikasi → implementasi → tes → review → dokumentasi → persetujuan."
   },
   {
     "objectID": "dokumentasi-web/docs/KONTEKS_PROYEK.html",
@@ -249,7 +249,7 @@
     "href": "dokumentasi-web/docs/ARSITEKTUR.html#batasan-keamanan",
     "title": "Arsitektur Awal",
     "section": "Batasan keamanan",
-    "text": "Batasan keamanan\nBot contoh tidak menerima percakapan bebas untuk direkam. Akses bot dibatasi oleh ID grup; jangan menonaktifkan pengaturan privasi Telegram tanpa pemberitahuan dan persetujuan peserta. Jangan mengirim identitas atau isi forum ke model cloud tanpa izin."
+    "text": "Batasan keamanan\nBot katalog memproses perintah dari grup dan supergrup yang menambahkannya. Pertahankan pengaturan privasi Telegram dan minta persetujuan peserta sebelum mengaktifkan pemantauan percakapan. Jangan mengirim identitas atau isi forum ke model cloud tanpa izin."
   },
   {
     "objectID": "dokumentasi-web/docs/ARSITEKTUR.html#rancangan-uji-integrasi-lokal",
@@ -277,7 +277,7 @@
     "href": "dokumentasi-web/README.md.html#situs-dokumentasi-quarto",
     "title": "KIPP-CIA — Kecerdasan Akademik Kolektif",
     "section": "Situs dokumentasi Quarto",
-    "text": "Situs dokumentasi Quarto\nBuka index.html di akar repositori untuk menjelajahi dokumen Markdown proyek. Untuk merender ulang setelah mengubah atau menambahkan Markdown, jalankan dari akar repositori dengan Python dan Quarto CLI terpasang.\npython3 08-aplikasi/skrip/bangun_dokumentasi.py\npython3 -m http.server 8000 --bind 127.0.0.1\nBuka http://127.0.0.1:8000/ agar pencarian Quarto berfungsi. Simpan index.html, search.json, dan folder dokumentasi-web/ bersama-sama. Lingkungan virtual, konfigurasi tersembunyi lokal, dan direktori data pribadi dikecualikan dari pemindaian.\nBot Telegram contoh (opsional; hanya /help dan /find, belum menggunakan AI):\npip install -e '.[bot]'\ncp .env.example .env\n# isi token dan ID grup yang diizinkan di .env\npython -m bot.telegram_bot\nCatatan: Bot contoh tidak merekam pesan grup, tidak memantau percakapan pasif, dan tidak terhubung dengan Ollama. Kemampuan tersebut harus ditambahkan dengan izin, pemberitahuan, kontrol akses, dan pengujian yang sesuai."
+    "text": "Situs dokumentasi Quarto\nBuka index.html di akar repositori untuk menjelajahi dokumen Markdown proyek. Untuk merender ulang setelah mengubah atau menambahkan Markdown, jalankan dari akar repositori dengan Python dan Quarto CLI terpasang.\npython3 08-aplikasi/skrip/bangun_dokumentasi.py\npython3 -m http.server 8000 --bind 127.0.0.1\nBuka http://127.0.0.1:8000/ agar pencarian Quarto berfungsi. Simpan index.html, search.json, dan folder dokumentasi-web/ bersama-sama. Lingkungan virtual, konfigurasi tersembunyi lokal, dan direktori data pribadi dikecualikan dari pemindaian.\nBot Telegram katalog (opsional):\npip install -e '.[bot]'\ncp .env.example .env\n# isi TELEGRAM_BOT_TOKEN_CI di .env\npython cia.py\nBot merespons perintah di grup dan supergrup yang menambahkannya. Lihat bot/README.md untuk daftar perintah dan prosedur perpindahan dari bot forum lama."
   },
   {
     "objectID": "dokumentasi-web/README.md.html#peta-repositori",
@@ -865,7 +865,7 @@
     "href": "index.html#bot-telegram",
     "title": "Dokumentasi KIPP-CIA",
     "section": "Bot Telegram",
-    "text": "Bot Telegram\n\nBot Telegram — Versi Awal · bot/README.md"
+    "text": "Bot Telegram\n\nBot Telegram KIPP-CIA · bot/README.md"
   },
   {
     "objectID": "index.html#templat-kontribusi",
@@ -1325,9 +1325,16 @@
   {
     "objectID": "dokumentasi-web/bot/README.md.html",
     "href": "dokumentasi-web/bot/README.md.html",
-    "title": "Bot Telegram — Versi Awal",
+    "title": "Bot Telegram KIPP-CIA",
     "section": "",
-    "text": "Sumber: bot/README.md\nBot berbasis aiogram hanya melayani dua perintah: /help dan /find kata-kunci. Gunakan berkas .env lokal, berdasarkan .env.example, untuk membatasi ID grup dan menyimpan token.\nBot ini tidak menyimpan percakapan dan belum terhubung dengan LLM. Penambahan pemantauan grup memerlukan penjelasan, izin, retensi terbatas, dan verifikasi tersendiri.\nJalankan: pip install -e '.[bot]' lalu python -m bot.telegram_bot."
+    "text": "Sumber: bot/README.md\nBot katalog melayani perintah di semua grup dan supergrup yang menambahkannya. Bot mengabaikan chat pribadi dan menampilkan peringatan umum di konsol tanpa mencatat isi pesan atau identitas pengirim."
+  },
+  {
+    "objectID": "dokumentasi-web/bot/README.md.html#menjalankan",
+    "href": "dokumentasi-web/bot/README.md.html#menjalankan",
+    "title": "Bot Telegram KIPP-CIA",
+    "section": "Menjalankan",
+    "text": "Menjalankan\n\nPasang dependensi dengan pip install -e '.[bot]'.\nSiapkan .env di akar KIPP-CIA berdasarkan .env.example dan isi TELEGRAM_BOT_TOKEN_CI.\nPertahankan pengaturan privasi grup di BotFather. Setelah konfigurasi forum disetujui, jalankan python cia.py dari akar KIPP-CIA.\n\nUntuk mengganti bot forum lama pada akun Telegram yang sama, hentikan proses ci.py lama sebelum menyalakan cia.py. Jalankan satu proses polling per token. Fungsi forum lama seperti pencatatan pesan, refleksi, fasilitasi, dan konsensus tidak dipindahkan ke bot katalog. Bot katalog memakai berkas proyek lokal dan tidak mengakses basis data forum, daftar peserta, atau Ollama."
   },
   {
     "objectID": "dokumentasi-web/docs/CATATAN_VERSI.html",
@@ -1355,7 +1362,7 @@
     "href": "dokumentasi-web/docs/KEBUTUHAN.html#fungsional",
     "title": "Kebutuhan MVP",
     "section": "Fungsional",
-    "text": "Fungsional\n\nKR-01: katalog menampilkan prompt dan skill dari metadata YAML dengan penjelasan Bahasa Indonesia.\nKR-02: pengguna dapat mencari judul, kode, dan kategori.\nKR-03: entri menampilkan petunjuk lengkap, versi, dan status review.\nKR-04: kontribusi dilakukan melalui template dan pull request dengan ulasan silang.\nKR-05: contoh memuat penerapan dari mata kuliah berbeda.\nKR-06: minimal satu alur kerja menunjukkan belajar → riset → desain → implementasi → paper → komunikasi.\nKR-07: bot Telegram tahap awal melayani /help dan /find pada grup yang diizinkan."
+    "text": "Fungsional\n\nKR-01: katalog menampilkan prompt dan skill dari metadata YAML dengan penjelasan Bahasa Indonesia.\nKR-02: pengguna dapat mencari judul, kode, dan kategori.\nKR-03: entri menampilkan petunjuk lengkap, versi, dan status review.\nKR-04: kontribusi dilakukan melalui template dan pull request dengan ulasan silang.\nKR-05: contoh memuat penerapan dari mata kuliah berbeda.\nKR-06: minimal satu alur kerja menunjukkan belajar → riset → desain → implementasi → paper → komunikasi.\nKR-07: bot Telegram tahap awal melayani /help dan /find pada grup dan supergrup yang menambahkannya."
   },
   {
     "objectID": "dokumentasi-web/docs/KEBUTUHAN.html#nonfungsional",

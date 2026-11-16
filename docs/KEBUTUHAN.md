@@ -8,7 +8,7 @@
 - KR-04: kontribusi dilakukan melalui template dan pull request dengan ulasan silang.
 - KR-05: contoh memuat penerapan dari mata kuliah berbeda.
 - KR-06: minimal satu alur kerja menunjukkan belajar → riset → desain → implementasi → paper → komunikasi.
-- KR-07: bot Telegram tahap awal melayani `/help` dan `/find` pada grup yang diizinkan.
+- KR-07: bot Telegram tahap awal melayani `/help` dan `/find` pada grup dan supergrup yang menambahkannya.
 
 ## Nonfungsional
 

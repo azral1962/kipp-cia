@@ -34,16 +34,16 @@ python3 -m http.server 8000 --bind 127.0.0.1
 
 Buka `http://127.0.0.1:8000/` agar pencarian Quarto berfungsi. Simpan `index.html`, `search.json`, dan folder `dokumentasi-web/` bersama-sama. Lingkungan virtual, konfigurasi tersembunyi lokal, dan direktori data pribadi dikecualikan dari pemindaian.
 
-Bot Telegram contoh (opsional; hanya `/help` dan `/find`, belum menggunakan AI):
+Bot Telegram katalog (opsional):
 
 ```bash
 pip install -e '.[bot]'
 cp .env.example .env
-# isi token dan ID grup yang diizinkan di .env
-python -m bot.telegram_bot
+# isi TELEGRAM_BOT_TOKEN_CI di .env
+python cia.py
 ```
 
-**Catatan:** Bot contoh tidak merekam pesan grup, tidak memantau percakapan pasif, dan tidak terhubung dengan Ollama. Kemampuan tersebut harus ditambahkan dengan izin, pemberitahuan, kontrol akses, dan pengujian yang sesuai.
+Bot merespons perintah di grup dan supergrup yang menambahkannya. Lihat `bot/README.md` untuk daftar perintah dan prosedur perpindahan dari bot forum lama.
 
 ## Peta repositori
 

@@ -16,7 +16,7 @@
 
 ## Tahap 3: forum dan AI lokal (opsional)
 
-1. Batasi bot pada daftar grup yang diizinkan; terima perintah pengguna saja.
+1. Terima perintah pengguna dari grup dan supergrup yang menambahkan bot.
 2. Tambahkan `/ask` dan `/summary` hanya setelah ada rancangan privasi, sumber RAG, dan pengujian.
 3. Sambungkan Ollama melalui antarmuka layanan terpisah.
 4. Review manusia wajib sebelum menerbitkan materi menjadi pengetahuan terverifikasi.

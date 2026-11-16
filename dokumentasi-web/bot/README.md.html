@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bot Telegram — Versi Awal – Dokumentasi KIPP-CIA</title>
+<title>Bot Telegram KIPP-CIA – Dokumentasi KIPP-CIA</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -120,15 +120,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Daftar isi</h2>
+   
+  <ul>
+  <li><a href="#menjalankan" id="toc-menjalankan" class="nav-link active" data-scroll-target="#menjalankan">Menjalankan</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Bot Telegram — Versi Awal</h1>
+<h1 class="title">Bot Telegram KIPP-CIA</h1>
 </div>
 
 
@@ -146,11 +152,48 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Sumber: <code>bot/README.md</code></p>
-<p>Bot berbasis aiogram hanya melayani dua perintah: <code>/help</code> dan <code>/find kata-kunci</code>. Gunakan berkas <code>.env</code> lokal, berdasarkan <code>.env.example</code>, untuk membatasi ID grup dan menyimpan token.</p>
-<p>Bot ini <strong>tidak menyimpan percakapan</strong> dan <strong>belum terhubung dengan LLM</strong>. Penambahan pemantauan grup memerlukan penjelasan, izin, retensi terbatas, dan verifikasi tersendiri.</p>
-<p>Jalankan: <code>pip install -e '.[bot]'</code> lalu <code>python -m bot.telegram_bot</code>.</p>
+<p>Bot katalog melayani perintah di semua grup dan supergrup yang menambahkannya. Bot mengabaikan chat pribadi dan menampilkan peringatan umum di konsol tanpa mencatat isi pesan atau identitas pengirim.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Perintah</th>
+<th>Hasil</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>/start</code>, <code>/help</code>, <code>/bantuan</code></td>
+<td>Menampilkan daftar perintah.</td>
+</tr>
+<tr class="even">
+<td><code>/find bayes</code></td>
+<td>Menemukan hingga lima paket prompt dan skill beserta statusnya.</td>
+</tr>
+<tr class="odd">
+<td><code>/paket ST-02</code></td>
+<td>Mengirim petunjuk Markdown paket, status, dan lokasi sumbernya.</td>
+</tr>
+<tr class="even">
+<td><code>/alur</code></td>
+<td>Mengirim demo akademik Bayes dengan data sintetis.</td>
+</tr>
+</tbody>
+</table>
+<section id="menjalankan" class="level2">
+<h2 class="anchored" data-anchor-id="menjalankan">Menjalankan</h2>
+<ol type="1">
+<li>Pasang dependensi dengan <code>pip install -e '.[bot]'</code>.</li>
+<li>Siapkan <code>.env</code> di akar KIPP-CIA berdasarkan <code>.env.example</code> dan isi <code>TELEGRAM_BOT_TOKEN_CI</code>.</li>
+<li>Pertahankan pengaturan privasi grup di BotFather. Setelah konfigurasi forum disetujui, jalankan <code>python cia.py</code> dari akar KIPP-CIA.</li>
+</ol>
+<p>Untuk mengganti bot forum lama pada akun Telegram yang sama, hentikan proses <code>ci.py</code> lama sebelum menyalakan <code>cia.py</code>. Jalankan satu proses polling per token. Fungsi forum lama seperti pencatatan pesan, refleksi, fasilitasi, dan konsensus tidak dipindahkan ke bot katalog. Bot katalog memakai berkas proyek lokal dan tidak mengakses basis data forum, daftar peserta, atau Ollama.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

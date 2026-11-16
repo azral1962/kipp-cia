@@ -25,7 +25,7 @@ Tab **Alur kerja akademik** membaca demo Markdown dari `04-alur-kerja/`. Paket p
 
 ## Batasan keamanan
 
-Bot contoh tidak menerima percakapan bebas untuk direkam. Akses bot dibatasi oleh ID grup; jangan menonaktifkan pengaturan privasi Telegram tanpa pemberitahuan dan persetujuan peserta. Jangan mengirim identitas atau isi forum ke model cloud tanpa izin.
+Bot katalog memproses perintah dari grup dan supergrup yang menambahkannya. Pertahankan pengaturan privasi Telegram dan minta persetujuan peserta sebelum mengaktifkan pemantauan percakapan. Jangan mengirim identitas atau isi forum ke model cloud tanpa izin.
 
 ## Rancangan uji integrasi lokal
 
