@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+  lib-dir: dokumentasi-web/site_libs
+  render:
+    - index.qmd
+    - dokumentasi-web/**/*.qmd
+
+website:
+  title: "Dokumentasi KIPP-CIA"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Semua dokumen
+      - href: dokumentasi-web/02-prompt/KATALOG.qmd
+        text: Prompt
+      - href: dokumentasi-web/03-skill/KATALOG.qmd
+        text: Skill
+      - href: dokumentasi-web/04-alur-kerja/DEMO_TERINTEGRASI.qmd
+        text: Alur kerja
+  search:
+    location: navbar
+    type: overlay
+
+lang: id
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Daftar isi"
+
+execute:
+  enabled: false

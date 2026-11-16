@@ -1,0 +1,1563 @@
+[
+  {
+    "objectID": "dokumentasi-web/templat/workflow-template.html",
+    "href": "dokumentasi-web/templat/workflow-template.html",
+    "title": "Templat Alur Kerja",
+    "section": "",
+    "text": "Sumber: templat/workflow-template.md"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/workflow-template.html#masalah-dan-sasaran",
+    "href": "dokumentasi-web/templat/workflow-template.html#masalah-dan-sasaran",
+    "title": "Templat Alur Kerja",
+    "section": "Masalah dan sasaran",
+    "text": "Masalah dan sasaran\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/workflow-template.html#peran-manusia-dan-ai",
+    "href": "dokumentasi-web/templat/workflow-template.html#peran-manusia-dan-ai",
+    "title": "Templat Alur Kerja",
+    "section": "Peran manusia dan AI",
+    "text": "Peran manusia dan AI\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/workflow-template.html#urutan-tahap-dan-skill",
+    "href": "dokumentasi-web/templat/workflow-template.html#urutan-tahap-dan-skill",
+    "title": "Templat Alur Kerja",
+    "section": "Urutan tahap dan skill",
+    "text": "Urutan tahap dan skill\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/workflow-template.html#bukti-hasil-tiap-tahap",
+    "href": "dokumentasi-web/templat/workflow-template.html#bukti-hasil-tiap-tahap",
+    "title": "Templat Alur Kerja",
+    "section": "Bukti hasil tiap tahap",
+    "text": "Bukti hasil tiap tahap\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/workflow-template.html#pemeriksaan-akhir",
+    "href": "dokumentasi-web/templat/workflow-template.html#pemeriksaan-akhir",
+    "title": "Templat Alur Kerja",
+    "section": "Pemeriksaan akhir",
+    "text": "Pemeriksaan akhir\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/review-template.html",
+    "href": "dokumentasi-web/templat/review-template.html",
+    "title": "Templat Ulasan Sejawat",
+    "section": "",
+    "text": "Sumber: templat/review-template.md\nPaket: …\nReviewer: …"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/review-template.html#tujuan-dipenuhi",
+    "href": "dokumentasi-web/templat/review-template.html#tujuan-dipenuhi",
+    "title": "Templat Ulasan Sejawat",
+    "section": "Tujuan dipenuhi?",
+    "text": "Tujuan dipenuhi?\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/review-template.html#bukti-pengujian",
+    "href": "dokumentasi-web/templat/review-template.html#bukti-pengujian",
+    "title": "Templat Ulasan Sejawat",
+    "section": "Bukti pengujian",
+    "text": "Bukti pengujian\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/review-template.html#temuan-dan-risiko",
+    "href": "dokumentasi-web/templat/review-template.html#temuan-dan-risiko",
+    "title": "Templat Ulasan Sejawat",
+    "section": "Temuan dan risiko",
+    "text": "Temuan dan risiko\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/review-template.html#saran-perbaikan",
+    "href": "dokumentasi-web/templat/review-template.html#saran-perbaikan",
+    "title": "Templat Ulasan Sejawat",
+    "section": "Saran perbaikan",
+    "text": "Saran perbaikan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/review-template.html#keputusan-draftbetaverified",
+    "href": "dokumentasi-web/templat/review-template.html#keputusan-draftbetaverified",
+    "title": "Templat Ulasan Sejawat",
+    "section": "Keputusan (draft/beta/verified)",
+    "text": "Keputusan (draft/beta/verified)\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/problem-template.html",
+    "href": "dokumentasi-web/templat/problem-template.html",
+    "title": "Templat Masalah dan Penyelesaian",
+    "section": "",
+    "text": "Sumber: templat/problem-template.md"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/problem-template.html#masalah-dan-konteks",
+    "href": "dokumentasi-web/templat/problem-template.html#masalah-dan-konteks",
+    "title": "Templat Masalah dan Penyelesaian",
+    "section": "Masalah dan konteks",
+    "text": "Masalah dan konteks\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/problem-template.html#tujuan-dan-batasan",
+    "href": "dokumentasi-web/templat/problem-template.html#tujuan-dan-batasan",
+    "title": "Templat Masalah dan Penyelesaian",
+    "section": "Tujuan dan batasan",
+    "text": "Tujuan dan batasan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/problem-template.html#pengetahuan-yang-dibutuhkan",
+    "href": "dokumentasi-web/templat/problem-template.html#pengetahuan-yang-dibutuhkan",
+    "title": "Templat Masalah dan Penyelesaian",
+    "section": "Pengetahuan yang dibutuhkan",
+    "text": "Pengetahuan yang dibutuhkan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/problem-template.html#alternatif-dan-pilihan-metode",
+    "href": "dokumentasi-web/templat/problem-template.html#alternatif-dan-pilihan-metode",
+    "title": "Templat Masalah dan Penyelesaian",
+    "section": "Alternatif dan pilihan metode",
+    "text": "Alternatif dan pilihan metode\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/problem-template.html#hasil-dan-bukti",
+    "href": "dokumentasi-web/templat/problem-template.html#hasil-dan-bukti",
+    "title": "Templat Masalah dan Penyelesaian",
+    "section": "Hasil dan bukti",
+    "text": "Hasil dan bukti\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/problem-template.html#refleksi",
+    "href": "dokumentasi-web/templat/problem-template.html#refleksi",
+    "title": "Templat Masalah dan Penyelesaian",
+    "section": "Refleksi",
+    "text": "Refleksi\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html",
+    "href": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html",
+    "title": "Ringkasan perubahan",
+    "section": "",
+    "text": "Sumber: .github/PULL_REQUEST_TEMPLATE.md"
+  },
+  {
+    "objectID": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#masalah-atau-issue-terkait",
+    "href": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#masalah-atau-issue-terkait",
+    "title": "Ringkasan perubahan",
+    "section": "Masalah atau issue terkait",
+    "text": "Masalah atau issue terkait"
+  },
+  {
+    "objectID": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#berkas-dan-hasil-yang-ditambahkan",
+    "href": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#berkas-dan-hasil-yang-ditambahkan",
+    "title": "Ringkasan perubahan",
+    "section": "Berkas dan hasil yang ditambahkan",
+    "text": "Berkas dan hasil yang ditambahkan"
+  },
+  {
+    "objectID": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#cara-menguji",
+    "href": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#cara-menguji",
+    "title": "Ringkasan perubahan",
+    "section": "Cara menguji",
+    "text": "Cara menguji"
+  },
+  {
+    "objectID": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#bukti-pengujian",
+    "href": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#bukti-pengujian",
+    "title": "Ringkasan perubahan",
+    "section": "Bukti pengujian",
+    "text": "Bukti pengujian"
+  },
+  {
+    "objectID": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#risiko-privasi-dan-keterbatasan",
+    "href": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#risiko-privasi-dan-keterbatasan",
+    "title": "Ringkasan perubahan",
+    "section": "Risiko, privasi, dan keterbatasan",
+    "text": "Risiko, privasi, dan keterbatasan"
+  },
+  {
+    "objectID": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#reviewer-dari-tim-lain",
+    "href": "dokumentasi-web/github/PULL_REQUEST_TEMPLATE.html#reviewer-dari-tim-lain",
+    "title": "Ringkasan perubahan",
+    "section": "Reviewer dari tim lain",
+    "text": "Reviewer dari tim lain\n\nDokumentasi berbahasa Indonesia\nTes yang relevan telah dijalankan\nTidak ada token atau data pribadi di perubahan ini"
+  },
+  {
+    "objectID": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html",
+    "href": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html",
+    "title": "Rencana Implementasi untuk Codex",
+    "section": "",
+    "text": "Sumber: docs/RENCANA_IMPLEMENTASI.md"
+  },
+  {
+    "objectID": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html#tahap-1-pustaka-dan-katalog-prioritas-utama",
+    "href": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html#tahap-1-pustaka-dan-katalog-prioritas-utama",
+    "title": "Rencana Implementasi untuk Codex",
+    "section": "Tahap 1: pustaka dan katalog (prioritas utama)",
+    "text": "Tahap 1: pustaka dan katalog (prioritas utama)\n\nPastikan berkas metadata valid dan dibaca katalog.\nTersedia satu prompt draf per domain dan satu skill draf per kategori. Uji silang dan pengisian katalog rancangan masih tertunda.\nPertahankan pengujian otomatis dan dokumentasikan cara menjalankannya.\nFilter status dan tag tersedia. Filter sumber serta dokumentasi hasil ulasan masih dijadwalkan."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html#tahap-2-pengalaman-kolaborasi",
+    "href": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html#tahap-2-pengalaman-kolaborasi",
+    "title": "Rencana Implementasi untuk Codex",
+    "section": "Tahap 2: pengalaman kolaborasi",
+    "text": "Tahap 2: pengalaman kolaborasi\n\nPerbaiki template kontribusi dan pull request.\nTambahkan contoh kasus lintas mata kuliah dan tautan ke konsep.\nBuat tampilan pengguna untuk membaca serta menyalin prompt dan skill.\nJalankan uji kemudahan penggunaan bersama mahasiswa lain."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html#tahap-3-forum-dan-ai-lokal-opsional",
+    "href": "dokumentasi-web/docs/RENCANA_IMPLEMENTASI.html#tahap-3-forum-dan-ai-lokal-opsional",
+    "title": "Rencana Implementasi untuk Codex",
+    "section": "Tahap 3: forum dan AI lokal (opsional)",
+    "text": "Tahap 3: forum dan AI lokal (opsional)\n\nBatasi bot pada daftar grup yang diizinkan; terima perintah pengguna saja.\nTambahkan /ask dan /summary hanya setelah ada rancangan privasi, sumber RAG, dan pengujian.\nSambungkan Ollama melalui antarmuka layanan terpisah.\nReview manusia wajib sebelum menerbitkan materi menjadi pengetahuan terverifikasi.\n\nUji layanan Ollama dengan data sintetis secara lokal sebelum menyambungkannya ke bot. Tetapkan pemberitahuan bagi peserta, persetujuan, kelompok yang diizinkan, sumber katalog yang boleh dipakai, dan prosedur pemeriksaan manusia sebelum menguji dengan materi forum.\nTiap tahap: spesifikasi → implementasi → tes → review → dokumentasi → persetujuan."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/KEBUTUHAN.html",
+    "href": "dokumentasi-web/docs/KEBUTUHAN.html",
+    "title": "Kebutuhan MVP",
+    "section": "",
+    "text": "Sumber: docs/KEBUTUHAN.md"
+  },
+  {
+    "objectID": "dokumentasi-web/docs/KEBUTUHAN.html#fungsional",
+    "href": "dokumentasi-web/docs/KEBUTUHAN.html#fungsional",
+    "title": "Kebutuhan MVP",
+    "section": "Fungsional",
+    "text": "Fungsional\n\nKR-01: katalog menampilkan prompt dan skill dari metadata YAML dengan penjelasan Bahasa Indonesia.\nKR-02: pengguna dapat mencari judul, kode, dan kategori.\nKR-03: entri menampilkan petunjuk lengkap, versi, dan status review.\nKR-04: kontribusi dilakukan melalui template dan pull request dengan ulasan silang.\nKR-05: contoh memuat penerapan dari mata kuliah berbeda.\nKR-06: minimal satu alur kerja menunjukkan belajar → riset → desain → implementasi → paper → komunikasi.\nKR-07: bot Telegram tahap awal melayani /help dan /find pada grup yang diizinkan."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/KEBUTUHAN.html#nonfungsional",
+    "href": "dokumentasi-web/docs/KEBUTUHAN.html#nonfungsional",
+    "title": "Kebutuhan MVP",
+    "section": "Nonfungsional",
+    "text": "Nonfungsional\n\nSeluruh teks untuk mahasiswa berbahasa Indonesia.\nAplikasi katalog berjalan lokal tanpa model AI ataupun database eksternal.\nTidak membutuhkan akun AI berbayar.\nRahasia tidak disimpan dalam kode; privasi dan hak cipta dijaga.\nHasil dapat diekspor serta dipelihara antarsemester."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/KEBUTUHAN.html#di-luar-lingkup-mvp",
+    "href": "dokumentasi-web/docs/KEBUTUHAN.html#di-luar-lingkup-mvp",
+    "title": "Kebutuhan MVP",
+    "section": "Di luar lingkup MVP",
+    "text": "Di luar lingkup MVP\nPemantauan percakapan Telegram penuh, pemberian saran berbasis LLM, penyimpanan percakapan, aplikasi mobile, dan sistem produksi multi-agent. Semua ini memerlukan desain keamanan dan persetujuan tambahan."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/CATATAN_VERSI.html",
+    "href": "dokumentasi-web/docs/CATATAN_VERSI.html",
+    "title": "Catatan Versi",
+    "section": "",
+    "text": "Sumber: docs/CATATAN_VERSI.md"
+  },
+  {
+    "objectID": "dokumentasi-web/docs/CATATAN_VERSI.html#awal-repositori-indonesia",
+    "href": "dokumentasi-web/docs/CATATAN_VERSI.html#awal-repositori-indonesia",
+    "title": "Catatan Versi",
+    "section": "0.1.0 — Awal repositori Indonesia",
+    "text": "0.1.0 — Awal repositori Indonesia\nNama repositori kipp-cia; dokumen, tampilan aplikasi, pesan bot, serta template menggunakan Bahasa Indonesia. Katalog lokal dan contoh perintah Telegram tersedia. Pemantauan forum dan integrasi Ollama belum diterapkan."
+  },
+  {
+    "objectID": "dokumentasi-web/bot/README.md.html",
+    "href": "dokumentasi-web/bot/README.md.html",
+    "title": "Bot Telegram — Versi Awal",
+    "section": "",
+    "text": "Sumber: bot/README.md\nBot berbasis aiogram hanya melayani dua perintah: /help dan /find kata-kunci. Gunakan berkas .env lokal, berdasarkan .env.example, untuk membatasi ID grup dan menyimpan token.\nBot ini tidak menyimpan percakapan dan belum terhubung dengan LLM. Penambahan pemantauan grup memerlukan penjelasan, izin, retensi terbatas, dan verifikasi tersendiri.\nJalankan: pip install -e '.[bot]' lalu python -m bot.telegram_bot."
+  },
+  {
+    "objectID": "dokumentasi-web/LISENSI_ID.html",
+    "href": "dokumentasi-web/LISENSI_ID.html",
+    "title": "Penjelasan Lisensi (Bahasa Indonesia)",
+    "section": "",
+    "text": "Sumber: LISENSI_ID.md\nKode pada repositori ini menggunakan Lisensi MIT sebagaimana tercantum pada berkas LICENSE. Secara umum, lisensi tersebut mengizinkan penggunaan, penyalinan, modifikasi, dan distribusi dengan tetap menyertakan pemberitahuan hak cipta dan lisensi. Perangkat lunak diberikan tanpa jaminan.\nBerkas LICENSE sengaja menggunakan teks standar aslinya agar tidak mengubah ketentuan hukum. Penjelasan ini hanya ringkasan nonresmi; apabila terdapat perbedaan penafsiran, rujuk teks lisensi asli.\nMateri, gambar, dokumen pihak ketiga, data pribadi, dan konten kontribusi dapat memiliki ketentuan berbeda; jangan menganggap semuanya otomatis berlisensi MIT."
+  },
+  {
+    "objectID": "dokumentasi-web/CODE_OF_CONDUCT.html",
+    "href": "dokumentasi-web/CODE_OF_CONDUCT.html",
+    "title": "Kode Etik Komunitas",
+    "section": "",
+    "text": "Sumber: CODE_OF_CONDUCT.md\nKomunitas KIPP-CIA menjunjung sikap mendengarkan, saling membantu, keterbukaan terhadap koreksi, integritas akademik, dan penghargaan pada perbedaan kemampuan.\n\nKritiklah gagasan atau hasil kerja, bukan harga diri orang.\nCantumkan sumber dan kontribusi pihak lain secara jujur.\nGunakan AI sebagai alat bantu berpikir dan bekerja, bukan pengganti tanggung jawab.\nHormati privasi serta persetujuan dalam menyimpan percakapan atau identitas.\nLaporkan konflik atau pelanggaran kepada koordinator dan dosen melalui jalur yang disepakati."
+  },
+  {
+    "objectID": "dokumentasi-web/10-pameran-karya/video/README.md.html",
+    "href": "dokumentasi-web/10-pameran-karya/video/README.md.html",
+    "title": "Video",
+    "section": "",
+    "text": "Sumber: 10-pameran-karya/video/README.md\nHasil presentasi dan demonstrasi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/10-pameran-karya/laporan-akhir/README.md.html",
+    "href": "dokumentasi-web/10-pameran-karya/laporan-akhir/README.md.html",
+    "title": "Laporan Akhir",
+    "section": "",
+    "text": "Sumber: 10-pameran-karya/laporan-akhir/README.md\nHasil presentasi dan demonstrasi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/09-mutu/rubrik-evaluasi/README.md.html",
+    "href": "dokumentasi-web/09-mutu/rubrik-evaluasi/README.md.html",
+    "title": "Rubrik Evaluasi",
+    "section": "",
+    "text": "Sumber: 09-mutu/rubrik-evaluasi/README.md\nPengujian dan standar mutu.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/09-mutu/kasus-uji/README.md.html",
+    "href": "dokumentasi-web/09-mutu/kasus-uji/README.md.html",
+    "title": "Kasus Uji",
+    "section": "",
+    "text": "Sumber: 09-mutu/kasus-uji/README.md\nPengujian dan standar mutu.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/08-aplikasi/tests/README.md.html",
+    "href": "dokumentasi-web/08-aplikasi/tests/README.md.html",
+    "title": "Tests",
+    "section": "",
+    "text": "Sumber: 08-aplikasi/tests/README.md\nPerencanaan dan pengembangan aplikasi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/08-aplikasi/basis-data/README.md.html",
+    "href": "dokumentasi-web/08-aplikasi/basis-data/README.md.html",
+    "title": "Database",
+    "section": "",
+    "text": "Sumber: 08-aplikasi/basis-data/README.md\nPerencanaan dan pengembangan aplikasi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/07-komunitas/ulasan-sejawat/README.md.html",
+    "href": "dokumentasi-web/07-komunitas/ulasan-sejawat/README.md.html",
+    "title": "Ulasan Sejawat",
+    "section": "",
+    "text": "Sumber: 07-komunitas/ulasan-sejawat/README.md\nDokumen komunikasi, koordinasi, dan ulasan sejawat.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/07-komunitas/panduan-kontribusi/README.md.html",
+    "href": "dokumentasi-web/07-komunitas/panduan-kontribusi/README.md.html",
+    "title": "Panduan Kontribusi",
+    "section": "",
+    "text": "Sumber: 07-komunitas/panduan-kontribusi/README.md\nDokumen komunikasi, koordinasi, dan ulasan sejawat.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/06-contoh/sinyal-sistem/README.md.html",
+    "href": "dokumentasi-web/06-contoh/sinyal-sistem/README.md.html",
+    "title": "Sinyal Sistem",
+    "section": "",
+    "text": "Sumber: 06-contoh/sinyal-sistem/README.md\nContoh nyata dari berbagai mata kuliah.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/06-contoh/lintas-ilmu/README.md.html",
+    "href": "dokumentasi-web/06-contoh/lintas-ilmu/README.md.html",
+    "title": "Lintas Ilmu",
+    "section": "",
+    "text": "Sumber: 06-contoh/lintas-ilmu/README.md\nContoh nyata dari berbagai mata kuliah.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/05-pemecahan-masalah/studi-kasus/README.md.html",
+    "href": "dokumentasi-web/05-pemecahan-masalah/studi-kasus/README.md.html",
+    "title": "Studi Kasus",
+    "section": "",
+    "text": "Sumber: 05-pemecahan-masalah/studi-kasus/README.md\nPermasalahan, penyelesaian, bukti, dan refleksi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/05-pemecahan-masalah/refleksi/README.md.html",
+    "href": "dokumentasi-web/05-pemecahan-masalah/refleksi/README.md.html",
+    "title": "Refleksi",
+    "section": "",
+    "text": "Sumber: 05-pemecahan-masalah/refleksi/README.md\nPermasalahan, penyelesaian, bukti, dan refleksi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/04-alur-kerja/publikasi-ilmiah/README.md.html",
+    "href": "dokumentasi-web/04-alur-kerja/publikasi-ilmiah/README.md.html",
+    "title": "Publikasi Ilmiah",
+    "section": "",
+    "text": "Sumber: 04-alur-kerja/publikasi-ilmiah/README.md\nRangkaian prosedur dan alat akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/04-alur-kerja/pengembangan-perangkat-lunak/README.md.html",
+    "href": "dokumentasi-web/04-alur-kerja/pengembangan-perangkat-lunak/README.md.html",
+    "title": "Pengembangan Perangkat Lunak",
+    "section": "",
+    "text": "Sumber: 04-alur-kerja/pengembangan-perangkat-lunak/README.md\nRangkaian prosedur dan alat akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/04-alur-kerja/belajar-akademik/README.md.html",
+    "href": "dokumentasi-web/04-alur-kerja/belajar-akademik/README.md.html",
+    "title": "Belajar Akademik",
+    "section": "",
+    "text": "Sumber: 04-alur-kerja/belajar-akademik/README.md\nRangkaian prosedur dan alat akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html",
+    "href": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html",
+    "title": "VZ-01 — Grafik Ilmiah",
+    "section": "",
+    "text": "Sumber: 03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.md"
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#tujuan",
+    "href": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#tujuan",
+    "title": "VZ-01 — Grafik Ilmiah",
+    "section": "Tujuan",
+    "text": "Tujuan\nMembuat grafik frekuensi yang dapat ditelusuri ke data."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#masukan",
+    "href": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#masukan",
+    "title": "VZ-01 — Grafik Ilmiah",
+    "section": "Masukan",
+    "text": "Masukan\nTabel frekuensi, label kelompok, serta pertanyaan yang ingin dijawab."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#cara-kerja",
+    "href": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#cara-kerja",
+    "title": "VZ-01 — Grafik Ilmiah",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nPilih diagram batang berkelompok untuk jumlah pesan «promo» dan «tanpa promo» menurut label spam. Tetapkan sumbu jumlah mulai dari nol dan catat sumber data."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#contoh-dan-keluaran",
+    "title": "VZ-01 — Grafik Ilmiah",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nGrafik dari data sintetis Bayes dengan empat nilai 10, 10, 8, dan 72."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.html#pemeriksaan-sejawat",
+    "title": "VZ-01 — Grafik Ilmiah",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nCocokkan tinggi batang dengan tabel dan pastikan sumbu, kelompok, dan satuan terlihat.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html",
+    "href": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html",
+    "title": "VD-01 — Video Penjelasan",
+    "section": "",
+    "text": "Sumber: 03-skill/video/VD-01-video-penjelasan/SKILL.md"
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#tujuan",
+    "href": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#tujuan",
+    "title": "VD-01 — Video Penjelasan",
+    "section": "Tujuan",
+    "text": "Tujuan\nMerekam penjelasan pendek yang bisa ditinjau sebelum dibagikan."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#masukan",
+    "href": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#masukan",
+    "title": "VD-01 — Video Penjelasan",
+    "section": "Masukan",
+    "text": "Masukan\nNaskah, tampilan tabel, dan satu sasaran penjelasan."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#cara-kerja",
+    "href": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#cara-kerja",
+    "title": "VD-01 — Video Penjelasan",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nBuat naskah satu menit, rekam layar berisi data sintetis, dan tambahkan teks takarir. Putar ulang sebelum membagikannya."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#contoh-dan-keluaran",
+    "title": "VD-01 — Video Penjelasan",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nVideo yang menunjukkan cara memilih 18 pesan berisi «promo», lalu menghitung 10/18."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/03-skill/video/VD-01-video-penjelasan/SKILL.html#pemeriksaan-sejawat",
+    "title": "VD-01 — Video Penjelasan",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nAngka terbaca, audio atau takarir menjelaskan proses, dan rekaman bebas dari identitas atau notifikasi pribadi.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html",
+    "href": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html",
+    "title": "TB-01 — Tabel Data",
+    "section": "",
+    "text": "Sumber: 03-skill/tabel/TB-01-tabel-data/SKILL.md"
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#tujuan",
+    "href": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#tujuan",
+    "title": "TB-01 — Tabel Data",
+    "section": "Tujuan",
+    "text": "Tujuan\nMenyajikan frekuensi dan total dalam tabel yang bisa diperiksa."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#masukan",
+    "href": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#masukan",
+    "title": "TB-01 — Tabel Data",
+    "section": "Masukan",
+    "text": "Masukan\nNama baris, nama kolom, dan hitungan untuk tiap kombinasi."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#cara-kerja",
+    "href": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#cara-kerja",
+    "title": "TB-01 — Tabel Data",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nIsi sel dengan hitungan, jumlahkan setiap baris dan kolom, lalu tambahkan keterangan sumber dan arti sel kosong."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#contoh-dan-keluaran",
+    "title": "TB-01 — Tabel Data",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nTabel label spam menurut keberadaan kata «promo», dengan total kolom 18 dan 82."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/03-skill/tabel/TB-01-tabel-data/SKILL.html#pemeriksaan-sejawat",
+    "title": "TB-01 — Tabel Data",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nTotal baris 20 dan 80 serta total kolom 18 dan 82 sama-sama berjumlah 100.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html",
+    "href": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html",
+    "title": "PY-03 — Skill Simulasi Numerik Python",
+    "section": "",
+    "text": "Sumber: 03-skill/python/PY-03-simulasi-numerik/SKILL.md"
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#tujuan",
+    "href": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#tujuan",
+    "title": "PY-03 — Skill Simulasi Numerik Python",
+    "section": "Tujuan",
+    "text": "Tujuan\nMembantu mahasiswa mengubah model matematis menjadi program Python, menjalankan eksperimen, membandingkan hasil dengan acuan, dan menjelaskan keterbatasan simulasi."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#masukan",
+    "href": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#masukan",
+    "title": "PY-03 — Skill Simulasi Numerik Python",
+    "section": "Masukan",
+    "text": "Masukan\nDefinisi masalah, parameter, asumsi model, hasil yang diharapkan dan metode pembanding."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#prosedur",
+    "href": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#prosedur",
+    "title": "PY-03 — Skill Simulasi Numerik Python",
+    "section": "Prosedur",
+    "text": "Prosedur\n\nPastikan persoalan dan satuan setiap parameter jelas.\nRumuskan model, asumsi, dan algoritma.\nBuat program Python yang dapat dijalankan ulang.\nJalankan simulasi dan simpan hasil.\nBandingkan dengan perhitungan analitik atau acuan yang dapat diperiksa.\nBuat tabel atau grafik bila diperlukan.\nCatat kesalahan, ketidakpastian, dan interpretasi."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#keluaran",
+    "href": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#keluaran",
+    "title": "PY-03 — Skill Simulasi Numerik Python",
+    "section": "Keluaran",
+    "text": "Keluaran\nProgram .py, data hasil, grafik atau tabel, serta penjelasan."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#kriteria-penerimaan",
+    "href": "dokumentasi-web/03-skill/python/PY-03-simulasi-numerik/SKILL.html#kriteria-penerimaan",
+    "title": "PY-03 — Skill Simulasi Numerik Python",
+    "section": "Kriteria penerimaan",
+    "text": "Kriteria penerimaan\nProgram berjalan, parameter terdokumentasi, hasil dapat direproduksi, dan pemeriksaan numerik dinyatakan secara eksplisit."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/presentasi/README.md.html",
+    "href": "dokumentasi-web/03-skill/presentasi/README.md.html",
+    "title": "Presentasi",
+    "section": "",
+    "text": "Sumber: 03-skill/presentasi/README.md\nPaket keterampilan yang dapat digunakan ulang.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html",
+    "href": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html",
+    "title": "DC-01 — Laporan Teknis",
+    "section": "",
+    "text": "Sumber: 03-skill/dokumen/DC-01-laporan-teknis/SKILL.md"
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#tujuan",
+    "href": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#tujuan",
+    "title": "DC-01 — Laporan Teknis",
+    "section": "Tujuan",
+    "text": "Tujuan\nMendokumentasikan metode dan hasil analisis agar dapat diperiksa ulang."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#masukan",
+    "href": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#masukan",
+    "title": "DC-01 — Laporan Teknis",
+    "section": "Masukan",
+    "text": "Masukan\nPertanyaan, data, langkah perhitungan, dan hasil uji."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#cara-kerja",
+    "href": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#cara-kerja",
+    "title": "DC-01 — Laporan Teknis",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nSusun bagian tujuan, data, metode, hasil, dan keterbatasan. Sertakan tabel sumber, cara menghitung ulang, dan catatan bantuan AI."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#contoh-dan-keluaran",
+    "title": "DC-01 — Laporan Teknis",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nLaporan satu halaman tentang peluang spam bersyarat dengan data sintetis."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/03-skill/dokumen/DC-01-laporan-teknis/SKILL.html#pemeriksaan-sejawat",
+    "title": "DC-01 — Laporan Teknis",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nReviewer dapat memperoleh 10/18 dari tabel dan menemukan alasan hasil terbatas pada latihan.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html",
+    "href": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html",
+    "title": "RS-03 — Pertanyaan Riset",
+    "section": "",
+    "text": "Sumber: 02-prompt/riset/RS-03-pertanyaan-riset/prompt.md"
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#tujuan",
+    "href": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#tujuan",
+    "title": "RS-03 — Pertanyaan Riset",
+    "section": "Tujuan",
+    "text": "Tujuan\nMengubah topik umum menjadi pertanyaan yang bisa dijawab dengan bukti."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#masukan",
+    "href": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#masukan",
+    "title": "RS-03 — Pertanyaan Riset",
+    "section": "Masukan",
+    "text": "Masukan\nTopik, data atau sumber yang tersedia, batas waktu, dan ruang lingkup."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#cara-kerja",
+    "href": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#cara-kerja",
+    "title": "RS-03 — Pertanyaan Riset",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nUsulkan dua pertanyaan. Untuk setiap pertanyaan, nyatakan unit analisis, bukti yang dibutuhkan, dan asumsi yang belum dapat diperiksa. Pilih satu sesuai sumber yang tersedia. Jangan membuat rujukan baru."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#contoh-dan-keluaran",
+    "title": "RS-03 — Pertanyaan Riset",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nUntuk latihan Bayes dengan tabel frekuensi, rumuskan pertanyaan tentang peluang spam di antara pesan yang mengandung kata «promo»."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/02-prompt/riset/RS-03-pertanyaan-riset/prompt.html#pemeriksaan-sejawat",
+    "title": "RS-03 — Pertanyaan Riset",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nKedua pertanyaan dapat dibedakan dan pilihan akhir bisa dijawab dari tabel tanpa klaim sebab-akibat.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/karya-ilmiah/README.md.html",
+    "href": "dokumentasi-web/02-prompt/karya-ilmiah/README.md.html",
+    "title": "Karya Ilmiah",
+    "section": "",
+    "text": "Sumber: 02-prompt/karya-ilmiah/README.md\nPola prompt untuk pekerjaan akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/implementasi/README.md.html",
+    "href": "dokumentasi-web/02-prompt/implementasi/README.md.html",
+    "title": "Implementasi",
+    "section": "",
+    "text": "Sumber: 02-prompt/implementasi/README.md\nPola prompt untuk pekerjaan akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/desain/README.md.html",
+    "href": "dokumentasi-web/02-prompt/desain/README.md.html",
+    "title": "Desain",
+    "section": "",
+    "text": "Sumber: 02-prompt/desain/README.md\nPola prompt untuk pekerjaan akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/tests/evaluation.html",
+    "href": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/tests/evaluation.html",
+    "title": "Pengujian ST-02",
+    "section": "",
+    "text": "Sumber: 02-prompt/belajar/ST-02-tutor-sokratik/tests/evaluation.md\n\nJalankan pada Teorema Bayes, Konvolusi, dan topik komunikasi.\nPeriksa apakah AI mengajukan pertanyaan satu per satu dan tidak langsung memberikan seluruh jawaban.\nUji respons terhadap jawaban mahasiswa yang salah.\nPeriksa apakah tutor membedakan penjelasan yang berdasar sumber dan asumsi.\nMintalah mahasiswa lain menggunakan prompt dan memberi umpan balik.\n\nStatus: pengujian belum dilakukan dalam repositori awal."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/README.md.html",
+    "href": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/README.md.html",
+    "title": "ST-02 — Tutor Sokratik",
+    "section": "",
+    "text": "Sumber: 02-prompt/belajar/ST-02-tutor-sokratik/README.md\nPrompt untuk membimbing pemahaman dengan satu pertanyaan pada satu waktu, petunjuk bertahap, serta latihan mandiri. Status awal draft; belum terverifikasi.\nBaca prompt.md dan tests/evaluation.md, lalu lakukan uji silang pada mata kuliah lain."
+  },
+  {
+    "objectID": "dokumentasi-web/01-pengetahuan/taksonomi/README.md.html",
+    "href": "dokumentasi-web/01-pengetahuan/taksonomi/README.md.html",
+    "title": "Taxonomy",
+    "section": "",
+    "text": "Sumber: 01-pengetahuan/taksonomi/README.md\nBasis pengetahuan konseptual dan taksonomi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/01-pengetahuan/konsep/contoh-bayes.html",
+    "href": "dokumentasi-web/01-pengetahuan/konsep/contoh-bayes.html",
+    "title": "Contoh Konsep: Teorema Bayes",
+    "section": "",
+    "text": "Sumber: 01-pengetahuan/konsep/contoh-bayes.md\nMata kuliah: Probabilitas dan Statistika. Status: contoh awal, memerlukan verifikasi pengampu/reviewer.\nTeorema Bayes memperbarui probabilitas hipotesis setelah mempertimbangkan bukti baru.\nP(H|E) = P(E|H) P(H) / P(E) untuk P(E)&gt;0.\nPrasyarat: probabilitas bersyarat, peluang gabungan, dan probabilitas total.\nContoh penerapan: klasifikasi spam. Hubungkan dengan contoh kasus dan prompt tutor pada direktori belajar."
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/rubrik-penilaian.html",
+    "href": "dokumentasi-web/00-proyek/rubrik-penilaian.html",
+    "title": "Usulan Rubrik Penilaian Proyek",
+    "section": "",
+    "text": "Sumber: 00-proyek/rubrik-penilaian.md\n\n\n\nAspek\nBobot\n\n\n\n\nKomunikasi interpersonal dan kolaborasi\n30%\n\n\nKualitas kontribusi\n25%\n\n\nPengujian dan penggunaan hasil\n20%\n\n\nRefleksi individual dan penggunaan AI kritis\n15%\n\n\nIntegrasi dan keberlanjutan\n10%\n\n\n\nNilai tidak ditentukan semata-mata oleh jumlah pesan, prompt, atau kode. Penilaian akhir mengikuti keputusan dosen serta aturan mata kuliah."
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/pembagian-tim.html",
+    "href": "dokumentasi-web/00-proyek/pembagian-tim.html",
+    "title": "Organisasi Kelas: 10 Tim × 6 Mahasiswa",
+    "section": "",
+    "text": "Sumber: 00-proyek/pembagian-tim.md\n\n\n\n\n\n\n\n\nTim\nFokus\nTarget\n\n\n\n\nT01\nPrompt belajar\n5 rancangan\n\n\nT02\nPrompt riset\n5 rancangan\n\n\nT03\nPrompt desain\n5 rancangan\n\n\nT04\nPrompt implementasi\n5 rancangan\n\n\nT05\nPrompt karya ilmiah\n5 rancangan\n\n\nT06\nSkill Python dan simulasi\n3 rancangan\n\n\nT07\nSkill visualisasi dan tabel\n6 rancangan\n\n\nT08\nSkill presentasi dan video\n4 rancangan\n\n\nT09\nSkill dokumen dan integrasi katalog\n2 rancangan dan MVP\n\n\nT10\nPenjaminan mutu, pelatihan, komunitas\nreview, demo, serah-terima\n\n\n\nSetiap mahasiswa menjadi kontributor, pengguna, reviewer, komunikator, dan penulis refleksi. Koordinator tim membentuk dewan koordinasi kelas, sedangkan dosen menetapkan tujuan pembelajaran dan penilaian."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "",
+    "text": "Jelajahi 82 dokumen proyek menurut bagian. Gunakan pencarian di bilah navigasi untuk menemukan isi dokumen."
+  },
+  {
+    "objectID": "index.html#panduan-utama",
+    "href": "index.html#panduan-utama",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Panduan utama",
+    "text": "Panduan utama\n\nPedoman untuk Agen Pengembang — kipp-cia · AGENTS.md\nKode Etik Komunitas · CODE_OF_CONDUCT.md\nPanduan Kontribusi · CONTRIBUTING.md\nPenjelasan Lisensi (Bahasa Indonesia) · LISENSI_ID.md\nKIPP-CIA — Kecerdasan Akademik Kolektif · README.md"
+  },
+  {
+    "objectID": "index.html#organisasi-proyek",
+    "href": "index.html#organisasi-proyek",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Organisasi proyek",
+    "text": "Organisasi proyek\n\nJadwal Tiga Minggu · 00-proyek/jadwal.md\nOrganisasi Kelas: 10 Tim × 6 Mahasiswa · 00-proyek/pembagian-tim.md\nPiagam Proyek KIPP-CIA · 00-proyek/piagam-proyek.md\nUsulan Rubrik Penilaian Proyek · 00-proyek/rubrik-penilaian.md"
+  },
+  {
+    "objectID": "index.html#pengetahuan",
+    "href": "index.html#pengetahuan",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Pengetahuan",
+    "text": "Pengetahuan\n\nLearning Notes · 01-pengetahuan/catatan-belajar/README.md\nContoh Konsep: Teorema Bayes · 01-pengetahuan/konsep/contoh-bayes.md\nReferences · 01-pengetahuan/referensi/README.md\nTaxonomy · 01-pengetahuan/taksonomi/README.md"
+  },
+  {
+    "objectID": "index.html#pustaka-prompt",
+    "href": "index.html#pustaka-prompt",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Pustaka prompt",
+    "text": "Pustaka prompt\n\nKatalog Rancangan Prompt (25 Pola) · 02-prompt/KATALOG.md\nST-02 — Tutor Sokratik · 02-prompt/belajar/ST-02-tutor-sokratik/README.md\nPrompt ST-02: Tutor Belajar Sokratik · 02-prompt/belajar/ST-02-tutor-sokratik/prompt.md\nPengujian ST-02 · 02-prompt/belajar/ST-02-tutor-sokratik/tests/evaluation.md\nDS-02 — Analisis Kebutuhan · 02-prompt/desain/DS-02-kebutuhan/prompt.md\nDesain · 02-prompt/desain/README.md\nIM-05 — Verifikasi Implementasi · 02-prompt/implementasi/IM-05-verifikasi/prompt.md\nImplementasi · 02-prompt/implementasi/README.md\nPP-01 — Argumentasi Ilmiah · 02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.md\nKarya Ilmiah · 02-prompt/karya-ilmiah/README.md\nRiset · 02-prompt/riset/README.md\nRS-03 — Pertanyaan Riset · 02-prompt/riset/RS-03-pertanyaan-riset/prompt.md"
+  },
+  {
+    "objectID": "index.html#pustaka-skill",
+    "href": "index.html#pustaka-skill",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Pustaka skill",
+    "text": "Pustaka skill\n\nKatalog Rancangan Skill (15 Paket) · 03-skill/KATALOG.md\nDC-01 — Laporan Teknis · 03-skill/dokumen/DC-01-laporan-teknis/SKILL.md\nDokumen · 03-skill/dokumen/README.md\nPresentasi · 03-skill/presentasi/README.md\nSL-01 — Slide Presentasi · 03-skill/presentasi/SL-01-slide-presentasi/SKILL.md\nPY-03 — Skill Simulasi Numerik Python · 03-skill/python/PY-03-simulasi-numerik/SKILL.md\nTabel · 03-skill/tabel/README.md\nTB-01 — Tabel Data · 03-skill/tabel/TB-01-tabel-data/SKILL.md\nVideo · 03-skill/video/README.md\nVD-01 — Video Penjelasan · 03-skill/video/VD-01-video-penjelasan/SKILL.md\nVisualisasi · 03-skill/visualisasi/README.md\nVZ-01 — Grafik Ilmiah · 03-skill/visualisasi/VZ-01-grafik-ilmiah/SKILL.md"
+  },
+  {
+    "objectID": "index.html#alur-kerja-akademik",
+    "href": "index.html#alur-kerja-akademik",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Alur kerja akademik",
+    "text": "Alur kerja akademik\n\nDemonstrasi Alur Kerja Akademik · 04-alur-kerja/DEMO_TERINTEGRASI.md\nBelajar Akademik · 04-alur-kerja/belajar-akademik/README.md\nDesain Sistem · 04-alur-kerja/desain-sistem/README.md\nPengembangan Perangkat Lunak · 04-alur-kerja/pengembangan-perangkat-lunak/README.md\nProyek Riset · 04-alur-kerja/proyek-riset/README.md\nPublikasi Ilmiah · 04-alur-kerja/publikasi-ilmiah/README.md"
+  },
+  {
+    "objectID": "index.html#pemecahan-masalah",
+    "href": "index.html#pemecahan-masalah",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Pemecahan masalah",
+    "text": "Pemecahan masalah\n\nMasalah · 05-pemecahan-masalah/masalah/README.md\nRefleksi · 05-pemecahan-masalah/refleksi/README.md\nSolusi · 05-pemecahan-masalah/solusi/README.md\nStudi Kasus · 05-pemecahan-masalah/studi-kasus/README.md"
+  },
+  {
+    "objectID": "index.html#contoh-lintas-mata-kuliah",
+    "href": "index.html#contoh-lintas-mata-kuliah",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Contoh lintas mata kuliah",
+    "text": "Contoh lintas mata kuliah\n\nKomunikasi · 06-contoh/komunikasi/README.md\nLintas Ilmu · 06-contoh/lintas-ilmu/README.md\nProbabilitas Statistika · 06-contoh/probabilitas-statistika/README.md\nSinyal Sistem · 06-contoh/sinyal-sistem/README.md"
+  },
+  {
+    "objectID": "index.html#komunitas-dan-ulasan-sejawat",
+    "href": "index.html#komunitas-dan-ulasan-sejawat",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Komunitas dan ulasan sejawat",
+    "text": "Komunitas dan ulasan sejawat\n\nKelompok Belajar · 07-komunitas/kelompok-belajar/README.md\nPanduan Kontribusi · 07-komunitas/panduan-kontribusi/README.md\nRingkasan Diskusi · 07-komunitas/ringkasan-diskusi/README.md\nUlasan Sejawat · 07-komunitas/ulasan-sejawat/README.md"
+  },
+  {
+    "objectID": "index.html#aplikasi-katalog",
+    "href": "index.html#aplikasi-katalog",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Aplikasi katalog",
+    "text": "Aplikasi katalog\n\nAplikasi Katalog · 08-aplikasi/README.md\nDatabase · 08-aplikasi/basis-data/README.md\nScripts · 08-aplikasi/skrip/README.md\nTests · 08-aplikasi/tests/README.md"
+  },
+  {
+    "objectID": "index.html#pengujian-dan-mutu",
+    "href": "index.html#pengujian-dan-mutu",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Pengujian dan mutu",
+    "text": "Pengujian dan mutu\n\nCatatan Perbaikan · 09-mutu/catatan-perbaikan/README.md\nKasus Uji · 09-mutu/kasus-uji/README.md\nLaporan Validasi · 09-mutu/laporan-validasi/README.md\nRubrik Evaluasi · 09-mutu/rubrik-evaluasi/README.md"
+  },
+  {
+    "objectID": "index.html#pameran-karya",
+    "href": "index.html#pameran-karya",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Pameran karya",
+    "text": "Pameran karya\n\nDemonstrasi · 10-pameran-karya/demonstrasi/README.md\nLaporan Akhir · 10-pameran-karya/laporan-akhir/README.md\nPresentasi · 10-pameran-karya/presentasi/README.md\nVideo · 10-pameran-karya/video/README.md"
+  },
+  {
+    "objectID": "index.html#spesifikasi-pengembang",
+    "href": "index.html#spesifikasi-pengembang",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Spesifikasi pengembang",
+    "text": "Spesifikasi pengembang\n\nArsitektur Awal · docs/ARSITEKTUR.md\nCatatan Versi · docs/CATATAN_VERSI.md\nDaftar Tugas Awal · docs/DAFTAR_TUGAS.md\nKebutuhan MVP · docs/KEBUTUHAN.md\nKonteks Proyek · docs/KONTEKS_PROYEK.md\nRencana Implementasi untuk Codex · docs/RENCANA_IMPLEMENTASI.md"
+  },
+  {
+    "objectID": "index.html#bot-telegram",
+    "href": "index.html#bot-telegram",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Bot Telegram",
+    "text": "Bot Telegram\n\nBot Telegram — Versi Awal · bot/README.md"
+  },
+  {
+    "objectID": "index.html#templat-kontribusi",
+    "href": "index.html#templat-kontribusi",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Templat kontribusi",
+    "text": "Templat kontribusi\n\nTemplat Pengetahuan · templat/knowledge-template.md\nTemplat Masalah dan Penyelesaian · templat/problem-template.md\nTemplat Paket Prompt · templat/prompt-template.md\nTemplat Ulasan Sejawat · templat/review-template.md\nTemplat Paket Skill · templat/skill-template.md\nTemplat Alur Kerja · templat/workflow-template.md"
+  },
+  {
+    "objectID": "index.html#kontribusi-melalui-github",
+    "href": "index.html#kontribusi-melalui-github",
+    "title": "Dokumentasi KIPP-CIA",
+    "section": "Kontribusi melalui GitHub",
+    "text": "Kontribusi melalui GitHub\n\nUsulan fitur atau paket · .github/ISSUE_TEMPLATE/usulan.md\nRingkasan perubahan · .github/PULL_REQUEST_TEMPLATE.md"
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/jadwal.html",
+    "href": "dokumentasi-web/00-proyek/jadwal.html",
+    "title": "Jadwal Tiga Minggu",
+    "section": "",
+    "text": "Sumber: 00-proyek/jadwal.md\n\n\n\n\n\n\n\n\nMinggu\nFokus\nTonggak\n\n\n\n\n1\nOrganisasi, identifikasi kebutuhan, desain, template\nSemua tim terbentuk; rancangan awal tersedia\n\n\n2\nPengembangan, uji silang, diskusi, revisi\nMinimal 5 prompt dan 3 skill teruji; katalog dapat dijelajahi\n\n\n3\nIntegrasi, demonstrasi, dokumentasi, refleksi\nMinimal 10 prompt dan 6 skill teruji; penyerahan pengelolaan\n\n\n\nSetiap akhir minggu, tim mendemonstrasikan hasil, mengungkap hambatan dan menetapkan tindakan berikutnya."
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/piagam-proyek.html",
+    "href": "dokumentasi-web/00-proyek/piagam-proyek.html",
+    "title": "Piagam Proyek KIPP-CIA",
+    "section": "",
+    "text": "Sumber: 00-proyek/piagam-proyek.md\nMisi: membangun komunitas belajar dan pustaka prompt, skill, pengetahuan, serta alur kerja yang dapat digunakan lintas mata kuliah.\nPeserta: sekitar 60 mahasiswa, 10 tim. Waktu: tiga minggu sebelum UAS."
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/piagam-proyek.html#tujuan-pembelajaran",
+    "href": "dokumentasi-web/00-proyek/piagam-proyek.html#tujuan-pembelajaran",
+    "title": "Piagam Proyek KIPP-CIA",
+    "section": "Tujuan pembelajaran",
+    "text": "Tujuan pembelajaran\nKomunikasi interpersonal, koordinasi kelompok, komunikasi publik, refleksi, pemanfaatan AI secara kritis, kontribusi dan penggunaan ulang pengetahuan bersama."
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/piagam-proyek.html#hasil-minimum",
+    "href": "dokumentasi-web/00-proyek/piagam-proyek.html#hasil-minimum",
+    "title": "Piagam Proyek KIPP-CIA",
+    "section": "Hasil minimum",
+    "text": "Hasil minimum\n\n25 rancangan prompt, sedikitnya 10 paket teruji.\n15 rancangan skill, sedikitnya 6 paket teruji dengan kategori berbeda.\nKatalog bersama dan satu demonstrasi alur akademik terintegrasi.\nBukti kontribusi, ulasan sejawat, dan refleksi setiap mahasiswa.\nPanduan pemeliharaan dan serah-terima antarsemester."
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/piagam-proyek.html#nilai-komunitas",
+    "href": "dokumentasi-web/00-proyek/piagam-proyek.html#nilai-komunitas",
+    "title": "Piagam Proyek KIPP-CIA",
+    "section": "Nilai komunitas",
+    "text": "Nilai komunitas\nBelajar mandiri, membantu sesama, akuntabilitas, komunikasi yang menghargai, perbaikan berbasis bukti."
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/piagam-proyek.html#lingkup-yang-ditunda",
+    "href": "dokumentasi-web/00-proyek/piagam-proyek.html#lingkup-yang-ditunda",
+    "title": "Piagam Proyek KIPP-CIA",
+    "section": "Lingkup yang ditunda",
+    "text": "Lingkup yang ditunda\nAplikasi produksi penuh, sistem multi-agent kompleks, aplikasi mobile native, dan integrasi berbayar. Bot Telegram dan Ollama merupakan perluasan bertahap, bukan syarat kelulusan MVP."
+  },
+  {
+    "objectID": "dokumentasi-web/00-proyek/piagam-proyek.html#persetujuan",
+    "href": "dokumentasi-web/00-proyek/piagam-proyek.html#persetujuan",
+    "title": "Piagam Proyek KIPP-CIA",
+    "section": "Persetujuan",
+    "text": "Persetujuan\nPiagam disahkan bersama oleh dosen dan perwakilan tim; revisi keputusan utama dicatat dalam repositori."
+  },
+  {
+    "objectID": "dokumentasi-web/01-pengetahuan/catatan-belajar/README.md.html",
+    "href": "dokumentasi-web/01-pengetahuan/catatan-belajar/README.md.html",
+    "title": "Learning Notes",
+    "section": "",
+    "text": "Sumber: 01-pengetahuan/catatan-belajar/README.md\nBasis pengetahuan konseptual dan taksonomi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/01-pengetahuan/referensi/README.md.html",
+    "href": "dokumentasi-web/01-pengetahuan/referensi/README.md.html",
+    "title": "References",
+    "section": "",
+    "text": "Sumber: 01-pengetahuan/referensi/README.md\nBasis pengetahuan konseptual dan taksonomi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/KATALOG.html",
+    "href": "dokumentasi-web/02-prompt/KATALOG.html",
+    "title": "Katalog Rancangan Prompt (25 Pola)",
+    "section": "",
+    "text": "Sumber: 02-prompt/KATALOG.md\n\n\n\n\n\n\n\nDomain\nLima pola\n\n\n\n\nBelajar\nST-01 Perencana Belajar; ST-02 Tutor Sokratik; ST-03 Peta Konsep; ST-04 Pelatih Latihan; ST-05 Deteksi Miskonsepsi\n\n\nRiset\nRS-01 Eksplorasi Masalah; RS-02 Tinjauan Literatur; RS-03 Pertanyaan Riset; RS-04 Saran Metodologi; RS-05 Interpretasi Data\n\n\nDesain\nDS-01 Analisis Stakeholder; DS-02 Kebutuhan; DS-03 Alternatif; DS-04 Arsitektur; DS-05 Kritik Desain\n\n\nImplementasi\nIM-01 Rencana Implementasi; IM-02 Bantuan Coding; IM-03 Simulasi; IM-04 Debugging; IM-05 Verifikasi\n\n\nKarya ilmiah\nPP-01 Argumentasi; PP-02 Kerangka; PP-03 Penulisan; PP-04 Figur & Tabel; PP-05 Peer Review\n\n\n\nDaftar ini merupakan rencana, bukan 25 paket yang sudah selesai. Isi paket disumbangkan mahasiswa berdasarkan templat."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/prompt.html",
+    "href": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/prompt.html",
+    "title": "Prompt ST-02: Tutor Belajar Sokratik",
+    "section": "",
+    "text": "Sumber: 02-prompt/belajar/ST-02-tutor-sokratik/prompt.md"
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/prompt.html#peran",
+    "href": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/prompt.html#peran",
+    "title": "Prompt ST-02: Tutor Belajar Sokratik",
+    "section": "Peran",
+    "text": "Peran\nBertindaklah sebagai tutor akademik yang membangun pemahaman saya melalui dialog dan pertanyaan. Jangan langsung menyelesaikan seluruh tugas saya."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/prompt.html#masukan",
+    "href": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/prompt.html#masukan",
+    "title": "Prompt ST-02: Tutor Belajar Sokratik",
+    "section": "Masukan",
+    "text": "Masukan\n\nMata kuliah: [nama]\nTopik: [topik]\nPengetahuan awal: [pemula/menengah/lanjut]\nTarget belajar: [kemampuan yang ingin dicapai]\nSumber: [dokumen yang disediakan]"
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/prompt.html#cara-bekerja",
+    "href": "dokumentasi-web/02-prompt/belajar/ST-02-tutor-sokratik/prompt.html#cara-bekerja",
+    "title": "Prompt ST-02: Tutor Belajar Sokratik",
+    "section": "Cara bekerja",
+    "text": "Cara bekerja\n\nTanyakan apa yang sudah saya pahami.\nAjukan satu pertanyaan diagnostik pada satu waktu.\nTemukan kemungkinan kesalahpahaman dan berikan petunjuk bertahap.\nGunakan contoh yang terkait konteks mata kuliah.\nBantu saya menghubungkan konsep dengan prasyarat dan penerapannya.\nTandai bagian yang belum dapat diverifikasi dari sumber.\nBerikan satu latihan baru dan tunggu jawaban saya.\nMinta saya menjelaskan kembali konsep dengan kata-kata sendiri.\nAkhiri dengan ringkasan, kekeliruan yang telah diperbaiki, dan langkah berikutnya."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html",
+    "href": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html",
+    "title": "DS-02 — Analisis Kebutuhan",
+    "section": "",
+    "text": "Sumber: 02-prompt/desain/DS-02-kebutuhan/prompt.md"
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#tujuan",
+    "href": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#tujuan",
+    "title": "DS-02 — Analisis Kebutuhan",
+    "section": "Tujuan",
+    "text": "Tujuan\nMenurunkan kebutuhan yang dapat diperiksa dari masalah akademik."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#masukan",
+    "href": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#masukan",
+    "title": "DS-02 — Analisis Kebutuhan",
+    "section": "Masukan",
+    "text": "Masukan\nMasalah, pengguna, batasan, dan contoh kegagalan."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#cara-kerja",
+    "href": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#cara-kerja",
+    "title": "DS-02 — Analisis Kebutuhan",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nSusun kebutuhan minimum. Untuk tiap kebutuhan, tulis tindakan pengguna, hasil yang dapat diamati, dan satu kasus penerimaan. Tandai asumsi yang perlu disepakati."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#contoh-dan-keluaran",
+    "title": "DS-02 — Analisis Kebutuhan",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nRancang kalkulator peluang Bayes untuk mahasiswa dengan masukan jumlah pesan relevan dan jumlah spam di antaranya."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/02-prompt/desain/DS-02-kebutuhan/prompt.html#pemeriksaan-sejawat",
+    "title": "DS-02 — Analisis Kebutuhan",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nAda kasus penerimaan untuk masukan valid dan penyebut nol, dengan keluaran yang dapat diperiksa.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html",
+    "href": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html",
+    "title": "IM-05 — Verifikasi Implementasi",
+    "section": "",
+    "text": "Sumber: 02-prompt/implementasi/IM-05-verifikasi/prompt.md"
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#tujuan",
+    "href": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#tujuan",
+    "title": "IM-05 — Verifikasi Implementasi",
+    "section": "Tujuan",
+    "text": "Tujuan\nMemeriksa kode terhadap hasil acuan dan kasus batas."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#masukan",
+    "href": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#masukan",
+    "title": "IM-05 — Verifikasi Implementasi",
+    "section": "Masukan",
+    "text": "Masukan\nCuplikan kode, spesifikasi, dan contoh keluaran yang telah dihitung."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#cara-kerja",
+    "href": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#cara-kerja",
+    "title": "IM-05 — Verifikasi Implementasi",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nUsulkan tes untuk hasil acuan, batas, dan masukan tidak valid. Sebutkan masukan, hasil yang diharapkan, dan alasannya. Laporkan hasil eksekusi hanya jika tes benar-benar dijalankan."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#contoh-dan-keluaran",
+    "title": "IM-05 — Verifikasi Implementasi",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nUji perhitungan 10/18, kasus 0/18, dan kasus penyebut nol."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/02-prompt/implementasi/IM-05-verifikasi/prompt.html#pemeriksaan-sejawat",
+    "title": "IM-05 — Verifikasi Implementasi",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nHasil acuan sesuai hitungan manual dan perilaku untuk penyebut nol dinyatakan jelas.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html",
+    "href": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html",
+    "title": "PP-01 — Argumentasi Ilmiah",
+    "section": "",
+    "text": "Sumber: 02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.md"
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#tujuan",
+    "href": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#tujuan",
+    "title": "PP-01 — Argumentasi Ilmiah",
+    "section": "Tujuan",
+    "text": "Tujuan\nMemeriksa hubungan antara klaim, bukti, dan keterbatasan."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#masukan",
+    "href": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#masukan",
+    "title": "PP-01 — Argumentasi Ilmiah",
+    "section": "Masukan",
+    "text": "Masukan\nDraf paragraf, tabel atau hasil uji, serta sumber yang sudah dibaca."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#cara-kerja",
+    "href": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#cara-kerja",
+    "title": "PP-01 — Argumentasi Ilmiah",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nPetakan setiap klaim ke bukti yang mendukungnya. Tandai klaim yang belum didukung dan usulkan perbaikan kalimat. Jangan menambahkan data atau rujukan yang tidak diberikan."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#contoh-dan-keluaran",
+    "title": "PP-01 — Argumentasi Ilmiah",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nPeriksa paragraf yang menyebut 10 dari 18 pesan rekaan berisi «promo» berlabel spam."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/02-prompt/karya-ilmiah/PP-01-argumentasi/prompt.html#pemeriksaan-sejawat",
+    "title": "PP-01 — Argumentasi Ilmiah",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nParagraf menyebut data sintetis dan angka 10 dari 18 serta tidak menggeneralisasikannya ke pesan nyata.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/02-prompt/riset/README.md.html",
+    "href": "dokumentasi-web/02-prompt/riset/README.md.html",
+    "title": "Riset",
+    "section": "",
+    "text": "Sumber: 02-prompt/riset/README.md\nPola prompt untuk pekerjaan akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/KATALOG.html",
+    "href": "dokumentasi-web/03-skill/KATALOG.html",
+    "title": "Katalog Rancangan Skill (15 Paket)",
+    "section": "",
+    "text": "Sumber: 03-skill/KATALOG.md\n\nPython: PY-01 Kode; PY-02 Debugging; PY-03 Simulasi numerik.\nVisualisasi: VZ-01 Grafik ilmiah; VZ-02 Diagram sistem; VZ-03 Peta konsep.\nTabel: TB-01 Tabel data; TB-02 Spreadsheet; TB-03 Matriks perbandingan.\nPresentasi: SL-01 Slide presentasi; SL-02 Presentasi riset.\nVideo: VD-01 Video penjelasan; VD-02 Demo aplikasi.\nDokumen: DC-01 Laporan teknis; DC-02 Draft paper.\n\nDaftar merupakan rencana. Tidak semua skill telah dibuat atau diuji."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/dokumen/README.md.html",
+    "href": "dokumentasi-web/03-skill/dokumen/README.md.html",
+    "title": "Dokumen",
+    "section": "",
+    "text": "Sumber: 03-skill/dokumen/README.md\nPaket keterampilan yang dapat digunakan ulang.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html",
+    "href": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html",
+    "title": "SL-01 — Slide Presentasi",
+    "section": "",
+    "text": "Sumber: 03-skill/presentasi/SL-01-slide-presentasi/SKILL.md"
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#tujuan",
+    "href": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#tujuan",
+    "title": "SL-01 — Slide Presentasi",
+    "section": "Tujuan",
+    "text": "Tujuan\nMenjelaskan hasil analisis singkat kepada teman sekelas."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#masukan",
+    "href": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#masukan",
+    "title": "SL-01 — Slide Presentasi",
+    "section": "Masukan",
+    "text": "Masukan\nPertanyaan, satu tabel atau grafik, hasil acuan, dan catatan keterbatasan."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#cara-kerja",
+    "href": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#cara-kerja",
+    "title": "SL-01 — Slide Presentasi",
+    "section": "Cara kerja",
+    "text": "Cara kerja\nSusun tiga slide untuk pertanyaan, bukti, dan interpretasi. Tulis sumber di slide yang memuat bukti, lalu lakukan latihan penjelasan dengan seorang teman."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#contoh-dan-keluaran",
+    "href": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#contoh-dan-keluaran",
+    "title": "SL-01 — Slide Presentasi",
+    "section": "Contoh dan keluaran",
+    "text": "Contoh dan keluaran\nPresentasi yang menunjukkan asal rasio 10 dari 18 pada latihan Bayes."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#pemeriksaan-sejawat",
+    "href": "dokumentasi-web/03-skill/presentasi/SL-01-slide-presentasi/SKILL.html#pemeriksaan-sejawat",
+    "title": "SL-01 — Slide Presentasi",
+    "section": "Pemeriksaan sejawat",
+    "text": "Pemeriksaan sejawat\nTeman dapat menyebut pembilang, penyebut, dan batas penggunaan hasil setelah melihat slide.\nRujukan latihan tersedia di 04-alur-kerja/DEMO_TERINTEGRASI.md. Paket berstatus draf dan menunggu ulasan lintas tim."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/tabel/README.md.html",
+    "href": "dokumentasi-web/03-skill/tabel/README.md.html",
+    "title": "Tabel",
+    "section": "",
+    "text": "Sumber: 03-skill/tabel/README.md\nPaket keterampilan yang dapat digunakan ulang.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/video/README.md.html",
+    "href": "dokumentasi-web/03-skill/video/README.md.html",
+    "title": "Video",
+    "section": "",
+    "text": "Sumber: 03-skill/video/README.md\nPaket keterampilan yang dapat digunakan ulang.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/03-skill/visualisasi/README.md.html",
+    "href": "dokumentasi-web/03-skill/visualisasi/README.md.html",
+    "title": "Visualisasi",
+    "section": "",
+    "text": "Sumber: 03-skill/visualisasi/README.md\nPaket keterampilan yang dapat digunakan ulang.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/04-alur-kerja/DEMO_TERINTEGRASI.html",
+    "href": "dokumentasi-web/04-alur-kerja/DEMO_TERINTEGRASI.html",
+    "title": "Demonstrasi Alur Kerja Akademik",
+    "section": "",
+    "text": "Sumber: 04-alur-kerja/DEMO_TERINTEGRASI.md\nKasus: menjelaskan penggunaan Teorema Bayes pada klasifikasi spam."
+  },
+  {
+    "objectID": "dokumentasi-web/04-alur-kerja/DEMO_TERINTEGRASI.html#latihan-dengan-data-sintetis",
+    "href": "dokumentasi-web/04-alur-kerja/DEMO_TERINTEGRASI.html#latihan-dengan-data-sintetis",
+    "title": "Demonstrasi Alur Kerja Akademik",
+    "section": "Latihan dengan data sintetis",
+    "text": "Latihan dengan data sintetis\nGunakan 100 pesan rekaan. Dari 20 pesan spam, 10 mengandung kata «promo». Dari 80 pesan lainnya, 8 mengandung kata itu.\n\n\n\n\n\n\n\n\nTahap\nHasil yang diserahkan\nPemeriksaan sejawat\n\n\n\n\nBelajar\nPenjelasan probabilitas bersyarat dengan bantuan ST-02\nMahasiswa menjelaskan perbedaan antara peluang spam jika ada kata «promo» dan peluang munculnya kata itu pada pesan spam.\n\n\nRiset\nCatatan sumber dan asumsi\nGunakan konsep Bayes di 01-pengetahuan/konsep/contoh-bayes.md sebagai titik awal dan catat sumber kuliah yang benar-benar dibaca.\n\n\nDesain\nTabel frekuensi dan definisi kejadian\nPeriksa kembali label spam, kata yang dicari, dan jumlah setiap kelompok.\n\n\nImplementasi\nPerhitungan manual dan skrip Python, dengan PY-03 sebagai panduan pemeriksaan\nBandingkan hasil substitusi rumus Bayes dengan rasio langsung 10 dari 18 pesan berisi «promo». Keduanya harus menghasilkan sekitar 55,6%.\n\n\nKarya ilmiah\nLaporan singkat dengan tabel dan keterbatasan\nSetiap klaim mengarah ke tabel atau sumber. Angka berlaku untuk data sintetis latihan ini.\n\n\nKomunikasi publik\nPresentasi atau video penjelasan\nSeorang teman dapat menjelaskan kembali asal angka 55,6% dan keterbatasannya.\n\n\n\nCatat bantuan AI, koreksi manusia, dan keputusan reviewer sebelum membagikan hasil. Untuk tahap implementasi, periksa juga bagaimana skrip menangani kasus tanpa pesan yang mengandung kata «promo».\nCari paket pendamping di tab Prompt dan skill menggunakan ID berikut.\n\nRiset dan desain: RS-03 dan DS-02.\nImplementasi dan bukti: IM-05, PY-03, TB-01, dan VZ-01.\nPelaporan dan komunikasi: PP-01, DC-01, SL-01, dan VD-01."
+  },
+  {
+    "objectID": "dokumentasi-web/04-alur-kerja/desain-sistem/README.md.html",
+    "href": "dokumentasi-web/04-alur-kerja/desain-sistem/README.md.html",
+    "title": "Desain Sistem",
+    "section": "",
+    "text": "Sumber: 04-alur-kerja/desain-sistem/README.md\nRangkaian prosedur dan alat akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/04-alur-kerja/proyek-riset/README.md.html",
+    "href": "dokumentasi-web/04-alur-kerja/proyek-riset/README.md.html",
+    "title": "Proyek Riset",
+    "section": "",
+    "text": "Sumber: 04-alur-kerja/proyek-riset/README.md\nRangkaian prosedur dan alat akademik.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/05-pemecahan-masalah/masalah/README.md.html",
+    "href": "dokumentasi-web/05-pemecahan-masalah/masalah/README.md.html",
+    "title": "Masalah",
+    "section": "",
+    "text": "Sumber: 05-pemecahan-masalah/masalah/README.md\nPermasalahan, penyelesaian, bukti, dan refleksi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/05-pemecahan-masalah/solusi/README.md.html",
+    "href": "dokumentasi-web/05-pemecahan-masalah/solusi/README.md.html",
+    "title": "Solusi",
+    "section": "",
+    "text": "Sumber: 05-pemecahan-masalah/solusi/README.md\nPermasalahan, penyelesaian, bukti, dan refleksi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/06-contoh/komunikasi/README.md.html",
+    "href": "dokumentasi-web/06-contoh/komunikasi/README.md.html",
+    "title": "Komunikasi",
+    "section": "",
+    "text": "Sumber: 06-contoh/komunikasi/README.md\nContoh nyata dari berbagai mata kuliah.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/06-contoh/probabilitas-statistika/README.md.html",
+    "href": "dokumentasi-web/06-contoh/probabilitas-statistika/README.md.html",
+    "title": "Probabilitas Statistika",
+    "section": "",
+    "text": "Sumber: 06-contoh/probabilitas-statistika/README.md\nContoh nyata dari berbagai mata kuliah.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/07-komunitas/kelompok-belajar/README.md.html",
+    "href": "dokumentasi-web/07-komunitas/kelompok-belajar/README.md.html",
+    "title": "Kelompok Belajar",
+    "section": "",
+    "text": "Sumber: 07-komunitas/kelompok-belajar/README.md\nDokumen komunikasi, koordinasi, dan ulasan sejawat.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/07-komunitas/ringkasan-diskusi/README.md.html",
+    "href": "dokumentasi-web/07-komunitas/ringkasan-diskusi/README.md.html",
+    "title": "Ringkasan Diskusi",
+    "section": "",
+    "text": "Sumber: 07-komunitas/ringkasan-diskusi/README.md\nDokumen komunikasi, koordinasi, dan ulasan sejawat.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/08-aplikasi/README.md.html",
+    "href": "dokumentasi-web/08-aplikasi/README.md.html",
+    "title": "Aplikasi Katalog",
+    "section": "",
+    "text": "Sumber: 08-aplikasi/README.md\nKode antarmuka yang dapat dijalankan ada di app/streamlit_app.py; pembaca data di kipp/catalog.py dan contoh bot di bot/telegram_bot.py.\nJalankan dari akar repositori: streamlit run app/streamlit_app.py."
+  },
+  {
+    "objectID": "dokumentasi-web/08-aplikasi/skrip/README.md.html",
+    "href": "dokumentasi-web/08-aplikasi/skrip/README.md.html",
+    "title": "Scripts",
+    "section": "",
+    "text": "Sumber: 08-aplikasi/skrip/README.md\nPerencanaan dan pengembangan aplikasi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/09-mutu/catatan-perbaikan/README.md.html",
+    "href": "dokumentasi-web/09-mutu/catatan-perbaikan/README.md.html",
+    "title": "Catatan Perbaikan",
+    "section": "",
+    "text": "Sumber: 09-mutu/catatan-perbaikan/README.md\nPengujian dan standar mutu.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/09-mutu/laporan-validasi/README.md.html",
+    "href": "dokumentasi-web/09-mutu/laporan-validasi/README.md.html",
+    "title": "Laporan Validasi",
+    "section": "",
+    "text": "Sumber: 09-mutu/laporan-validasi/README.md\nPengujian dan standar mutu.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/10-pameran-karya/demonstrasi/README.md.html",
+    "href": "dokumentasi-web/10-pameran-karya/demonstrasi/README.md.html",
+    "title": "Demonstrasi",
+    "section": "",
+    "text": "Sumber: 10-pameran-karya/demonstrasi/README.md\nHasil presentasi dan demonstrasi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/10-pameran-karya/presentasi/README.md.html",
+    "href": "dokumentasi-web/10-pameran-karya/presentasi/README.md.html",
+    "title": "Presentasi",
+    "section": "",
+    "text": "Sumber: 10-pameran-karya/presentasi/README.md\nHasil presentasi dan demonstrasi.\nTambahkan berkas Bahasa Indonesia mengikuti templat pada templat/. Cantumkan kontributor, sumber, contoh, hasil pengujian dan keterbatasan jika sesuai. Hindari informasi pribadi tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/AGENTS.html",
+    "href": "dokumentasi-web/AGENTS.html",
+    "title": "Pedoman untuk Agen Pengembang — kipp-cia",
+    "section": "",
+    "text": "Sumber: AGENTS.md\nAnda membantu proyek kelas KIPP Collective Academic Intelligence dengan Bahasa Indonesia sebagai bahasa utama. Semua penjelasan, komentar yang berguna bagi mahasiswa, UI, template, pesan kesalahan, dokumentasi, issue, dan laporan harus berbahasa Indonesia. Simbol Python, nama dependensi, sintaks Git, format metadata, dan API tidak boleh diterjemahkan jika merusak kompatibilitas."
+  },
+  {
+    "objectID": "dokumentasi-web/AGENTS.html#tujuan-dan-batas",
+    "href": "dokumentasi-web/AGENTS.html#tujuan-dan-batas",
+    "title": "Pedoman untuk Agen Pengembang — kipp-cia",
+    "section": "Tujuan dan batas",
+    "text": "Tujuan dan batas\n\nTarget MVP tiga minggu bagi sekitar 60 mahasiswa, terbagi menjadi 10 tim.\nPustaka 25 rancangan pola prompt (minimal 10 teruji), 15 rancangan skill (minimal 6 teruji), contoh alur akademik terintegrasi, katalog yang dapat digunakan dan sistem ulasan sejawat.\nKomponen bot Telegram hanyalah kerangka pilihan; jangan membaca/menyimpan pesan tanpa persetujuan dan konfigurasi eksplisit.\nUtamakan keterampilan komunikasi, kontribusi komunitas, pemeriksaan manusia, dan sumber yang dapat dilacak.\nJangan mengubah model data atau membuat integrasi layanan berbayar tanpa persetujuan pemilik proyek."
+  },
+  {
+    "objectID": "dokumentasi-web/AGENTS.html#cara-bekerja",
+    "href": "dokumentasi-web/AGENTS.html#cara-bekerja",
+    "title": "Pedoman untuk Agen Pengembang — kipp-cia",
+    "section": "Cara bekerja",
+    "text": "Cara bekerja\n\nBaca README.md, docs/KONTEKS_PROYEK.md, docs/KEBUTUHAN.md, docs/ARSITEKTUR.md, dan docs/RENCANA_IMPLEMENTASI.md.\nKerjakan satu fitur kecil dalam satu perubahan: spesifikasi → implementasi → pengujian → dokumentasi → tinjauan.\nGunakan pytest -q sebelum mengklaim selesai. Jangan mengaku sudah menguji bila belum.\nJaga kompatibilitas pembaca katalog dan YAML; kunci metadata teknis seperti id, name, category, status tidak diganti sembarangan.\nHindari data pribadi asli di repositori dan log. Jangan memasukkan token ke kode.\nSetiap saran AI yang bersifat ilmiah harus menyediakan sumber atau menandai ketidakpastian.\nJelaskan setiap perubahan dan risiko dalam bahasa Indonesia."
+  },
+  {
+    "objectID": "dokumentasi-web/AGENTS.html#larangan-tanpa-persetujuan",
+    "href": "dokumentasi-web/AGENTS.html#larangan-tanpa-persetujuan",
+    "title": "Pedoman untuk Agen Pengembang — kipp-cia",
+    "section": "Larangan tanpa persetujuan",
+    "text": "Larangan tanpa persetujuan\n\nMempublikasikan isi diskusi Telegram atau identitas mahasiswa.\nMengirim data komunitas ke model eksternal.\nMenghapus data atau melakukan deployment produksi.\nMenganggap output AI otomatis tervalidasi."
+  },
+  {
+    "objectID": "dokumentasi-web/CONTRIBUTING.html",
+    "href": "dokumentasi-web/CONTRIBUTING.html",
+    "title": "Panduan Kontribusi",
+    "section": "",
+    "text": "Sumber: CONTRIBUTING.md"
+  },
+  {
+    "objectID": "dokumentasi-web/CONTRIBUTING.html#etika",
+    "href": "dokumentasi-web/CONTRIBUTING.html#etika",
+    "title": "Panduan Kontribusi",
+    "section": "Etika",
+    "text": "Etika\nGunakan Bahasa Indonesia, saling menghargai, dan arahkan kritik kepada karya. Jangan mengunggah data pribadi, kunci API, soal ujian rahasia, maupun karya berhak cipta tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/CONTRIBUTING.html#status-paket",
+    "href": "dokumentasi-web/CONTRIBUTING.html#status-paket",
+    "title": "Panduan Kontribusi",
+    "section": "Status paket",
+    "text": "Status paket\ndraft → in_review → beta → verified atau deprecated.\nStatus verified hanya berarti lolos pengujian yang tercatat, bukan jaminan selalu benar."
+  },
+  {
+    "objectID": "dokumentasi-web/README.md.html",
+    "href": "dokumentasi-web/README.md.html",
+    "title": "KIPP-CIA — Kecerdasan Akademik Kolektif",
+    "section": "",
+    "text": "Sumber: README.md\nSatu kelas · 60+ mahasiswa · tiga minggu · sumber belajar bersama untuk semester berikutnya.\nRepositori awal proyek mata kuliah Komunikasi Interpersonal dan Publik (KIPP). Mahasiswa mengembangkan pustaka prompt, skill, alur kerja, konsep, dan pengalaman pemecahan masalah yang dapat diuji, ditinjau, digunakan ulang, serta dikembangkan lintas mata kuliah."
+  },
+  {
+    "objectID": "dokumentasi-web/README.md.html#mulai-cepat",
+    "href": "dokumentasi-web/README.md.html#mulai-cepat",
+    "title": "KIPP-CIA — Kecerdasan Akademik Kolektif",
+    "section": "Mulai cepat",
+    "text": "Mulai cepat\nPersyaratan: Python 3.11 atau lebih baru dan Git.\npython -m venv .venv\nsource .venv/bin/activate  # Windows: .venv\\Scripts\\activate\npip install -e '.[dev]'\nstreamlit run app/streamlit_app.py\nDi tab Prompt dan skill, gunakan kolom pencarian dan gabungkan filter kategori, status, dan tag. Tab Alur kerja akademik memuat latihan Bayes yang dapat diikuti kelompok dengan data sintetis.\nJalankan pengujian:\npytest -q"
+  },
+  {
+    "objectID": "dokumentasi-web/README.md.html#situs-dokumentasi-quarto",
+    "href": "dokumentasi-web/README.md.html#situs-dokumentasi-quarto",
+    "title": "KIPP-CIA — Kecerdasan Akademik Kolektif",
+    "section": "Situs dokumentasi Quarto",
+    "text": "Situs dokumentasi Quarto\nBuka index.html di akar repositori untuk menjelajahi dokumen Markdown proyek. Untuk merender ulang setelah mengubah atau menambahkan Markdown, jalankan dari akar repositori dengan Python dan Quarto CLI terpasang.\npython3 08-aplikasi/skrip/bangun_dokumentasi.py\npython3 -m http.server 8000 --bind 127.0.0.1\nBuka http://127.0.0.1:8000/ agar pencarian Quarto berfungsi. Simpan index.html, search.json, dan folder dokumentasi-web/ bersama-sama. Lingkungan virtual, konfigurasi tersembunyi lokal, dan direktori data pribadi dikecualikan dari pemindaian.\nBot Telegram contoh (opsional; hanya /help dan /find, belum menggunakan AI):\npip install -e '.[bot]'\ncp .env.example .env\n# isi token dan ID grup yang diizinkan di .env\npython -m bot.telegram_bot\nCatatan: Bot contoh tidak merekam pesan grup, tidak memantau percakapan pasif, dan tidak terhubung dengan Ollama. Kemampuan tersebut harus ditambahkan dengan izin, pemberitahuan, kontrol akses, dan pengujian yang sesuai."
+  },
+  {
+    "objectID": "dokumentasi-web/README.md.html#peta-repositori",
+    "href": "dokumentasi-web/README.md.html#peta-repositori",
+    "title": "KIPP-CIA — Kecerdasan Akademik Kolektif",
+    "section": "Peta repositori",
+    "text": "Peta repositori\n\n00-proyek/: piagam proyek, pembagian tim, jadwal, penilaian.\n01-pengetahuan/: taksonomi dan konsep.\n02-prompt/: lima domain kerja akademik.\n03-skill/: enam kategori keterampilan AI.\n04-alur-kerja/: proses akademik yang dapat digunakan ulang.\n05-pemecahan-masalah/: kasus, solusi, refleksi.\n06-contoh/: penerapan lintas mata kuliah.\n07-komunitas/: aturan, diskusi, dan ulasan sejawat.\n08-aplikasi/: rancangan pengembangan aplikasi.\n09-mutu/: rubrik, kasus uji, hasil verifikasi.\n10-pameran-karya/: demonstrasi dan hasil akhir.\napp/: antarmuka Streamlit.\nbot/: bot Telegram tahap awal.\nkipp/: pustaka Python untuk katalog.\ntemplat/: formulir kontribusi.\ndocs/: spesifikasi untuk pengembang/Codex."
+  },
+  {
+    "objectID": "dokumentasi-web/README.md.html#mulai-berkontribusi",
+    "href": "dokumentasi-web/README.md.html#mulai-berkontribusi",
+    "title": "KIPP-CIA — Kecerdasan Akademik Kolektif",
+    "section": "Mulai berkontribusi",
+    "text": "Mulai berkontribusi\nBaca CONTRIBUTING.md lalu ambil tugas melalui GitHub Issues, buat cabang, lengkapi templat, ajukan pull request, dan minta ulasan tim lain.\nDokumen prioritas: AGENTS.md, docs/KONTEKS_PROYEK.md, docs/KEBUTUHAN.md, dan docs/RENCANA_IMPLEMENTASI.md.\nBahasa kerja: Bahasa Indonesia untuk dokumentasi, UI, pesan bot, dan contoh. Nama perintah, library, ekstensi, API, serta kunci metadata teknis tetap menggunakan ejaan yang diperlukan perangkat lunak."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/ARSITEKTUR.html",
+    "href": "dokumentasi-web/docs/ARSITEKTUR.html",
+    "title": "Arsitektur Awal",
+    "section": "",
+    "text": "Sumber: docs/ARSITEKTUR.md\nRepositori Git adalah sumber utama paket terkurasi. Aplikasi Streamlit membaca berkas lokal. PostgreSQL, pgvector, dan Ollama adalah pilihan peningkatan setelah dasar komunitas dan pengujian berhasil.\nTab Alur kerja akademik membaca demo Markdown dari 04-alur-kerja/. Paket prompt dan skill tetap dibaca lewat metadata YAML yang sama."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/ARSITEKTUR.html#batasan-keamanan",
+    "href": "dokumentasi-web/docs/ARSITEKTUR.html#batasan-keamanan",
+    "title": "Arsitektur Awal",
+    "section": "Batasan keamanan",
+    "text": "Batasan keamanan\nBot contoh tidak menerima percakapan bebas untuk direkam. Akses bot dibatasi oleh ID grup; jangan menonaktifkan pengaturan privasi Telegram tanpa pemberitahuan dan persetujuan peserta. Jangan mengirim identitas atau isi forum ke model cloud tanpa izin."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/ARSITEKTUR.html#rancangan-uji-integrasi-lokal",
+    "href": "dokumentasi-web/docs/ARSITEKTUR.html#rancangan-uji-integrasi-lokal",
+    "title": "Arsitektur Awal",
+    "section": "Rancangan uji integrasi lokal",
+    "text": "Rancangan uji integrasi lokal\n\nUji layanan Ollama secara terpisah menggunakan pertanyaan sintetis dan berkas katalog yang telah diizinkan sebagai sumber. Cantumkan ID dan jalur sumber pada jawaban serta tandai ketidakpastian saat bukti katalog kurang.\nSebelum uji di Telegram, sepakati tujuan, kelompok yang diizinkan, penggunaan data, dan persetujuan peserta. Uji dengan perintah eksplisit di grup yang ditetapkan.\nUji penolakan untuk grup lain, sumber kosong, dan Ollama yang gagal merespons. Pertahankan fungsi pencarian katalog saat model lokal gagal.\nUlas jawaban AI sebelum menjadikannya materi terverifikasi. Penggunaan riwayat forum untuk rangkuman memerlukan rancangan dan persetujuan tersendiri."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/DAFTAR_TUGAS.html",
+    "href": "dokumentasi-web/docs/DAFTAR_TUGAS.html",
+    "title": "Daftar Tugas Awal",
+    "section": "",
+    "text": "Sumber: docs/DAFTAR_TUGAS.md\n\nT01–T05: siapkan 25 rancangan pola prompt dan uji silang minimal 10.\nT06–T09: siapkan 15 rancangan skill dan uji silang minimal 6.\nT09: tingkatkan katalog agar memiliki filter status dan tag.\nT10: siapkan matriks reviewer dan laporan uji.\nSemua tim: buat minimal satu contoh penerapan yang jelas dan sah untuk dibagikan.\nKoordinator: sepakati pemilik repositori, lisensi, dan prosedur serah-terima.\nOpsional: tambahkan bot Telegram berbasis perintah dan Ollama lokal dengan izin memadai."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/KONTEKS_PROYEK.html",
+    "href": "dokumentasi-web/docs/KONTEKS_PROYEK.html",
+    "title": "Konteks Proyek",
+    "section": "",
+    "text": "Sumber: docs/KONTEKS_PROYEK.md\nKIPP-CIA berawal dari diskusi tentang komunitas pemecahan masalah, pertukaran pengetahuan, dan kolaborasi manusia–AI. Dalam tiga minggu sebelum UAS, lingkup dipersempit menjadi pustaka kemampuan akademik bersama yang dapat diwariskan lintas semester."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/KONTEKS_PROYEK.html#prinsip-pendidikan",
+    "href": "dokumentasi-web/docs/KONTEKS_PROYEK.html#prinsip-pendidikan",
+    "title": "Konteks Proyek",
+    "section": "Prinsip pendidikan",
+    "text": "Prinsip pendidikan\n\nKomunikasi dan kolaborasi adalah kompetensi inti; teknologi hanyalah sarana.\nSetiap mahasiswa memberikan kontribusi dan menggunakan pengetahuan teman lain.\nPengetahuan konseptual, metode penggunaan, contoh kasus, prompt, dan skill harus saling tertaut.\nAI membantu menemukan, menjelaskan, menghasilkan, serta menguji; manusia tetap memeriksa dan menyetujui.\nHasil disimpan dalam format terbuka dan dapat dimodifikasi."
+  },
+  {
+    "objectID": "dokumentasi-web/docs/KONTEKS_PROYEK.html#taida",
+    "href": "dokumentasi-web/docs/KONTEKS_PROYEK.html#taida",
+    "title": "Konteks Proyek",
+    "section": "TAIDA",
+    "text": "TAIDA\nTarget: perubahan kemampuan belajar. Attention: masalah kuliah yang nyata. Interest: manfaat bagi tiap mahasiswa. Desire: akses pada kecerdasan kolektif. Action: membentuk tim, berkontribusi, menguji, menggunakan kembali."
+  },
+  {
+    "objectID": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html",
+    "href": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html",
+    "title": "Usulan fitur atau paket",
+    "section": "",
+    "text": "Sumber: .github/ISSUE_TEMPLATE/usulan.md"
+  },
+  {
+    "objectID": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#masalah-yang-ingin-diselesaikan",
+    "href": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#masalah-yang-ingin-diselesaikan",
+    "title": "Usulan fitur atau paket",
+    "section": "Masalah yang ingin diselesaikan",
+    "text": "Masalah yang ingin diselesaikan"
+  },
+  {
+    "objectID": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#pengguna-dan-manfaat",
+    "href": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#pengguna-dan-manfaat",
+    "title": "Usulan fitur atau paket",
+    "section": "Pengguna dan manfaat",
+    "text": "Pengguna dan manfaat"
+  },
+  {
+    "objectID": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#hasil-yang-diharapkan",
+    "href": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#hasil-yang-diharapkan",
+    "title": "Usulan fitur atau paket",
+    "section": "Hasil yang diharapkan",
+    "text": "Hasil yang diharapkan"
+  },
+  {
+    "objectID": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#kriteria-penerimaan",
+    "href": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#kriteria-penerimaan",
+    "title": "Usulan fitur atau paket",
+    "section": "Kriteria penerimaan",
+    "text": "Kriteria penerimaan"
+  },
+  {
+    "objectID": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#tim-dan-penanggung-jawab",
+    "href": "dokumentasi-web/github/ISSUE_TEMPLATE/usulan.html#tim-dan-penanggung-jawab",
+    "title": "Usulan fitur atau paket",
+    "section": "Tim dan penanggung jawab",
+    "text": "Tim dan penanggung jawab"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/knowledge-template.html",
+    "href": "dokumentasi-web/templat/knowledge-template.html",
+    "title": "Templat Pengetahuan",
+    "section": "",
+    "text": "Sumber: templat/knowledge-template.md"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/knowledge-template.html#konsep-dan-taksonomi",
+    "href": "dokumentasi-web/templat/knowledge-template.html#konsep-dan-taksonomi",
+    "title": "Templat Pengetahuan",
+    "section": "Konsep dan taksonomi",
+    "text": "Konsep dan taksonomi\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/knowledge-template.html#penjelasan-dengan-kata-sendiri",
+    "href": "dokumentasi-web/templat/knowledge-template.html#penjelasan-dengan-kata-sendiri",
+    "title": "Templat Pengetahuan",
+    "section": "Penjelasan dengan kata sendiri",
+    "text": "Penjelasan dengan kata sendiri\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/knowledge-template.html#prasyarat-dan-relasi-konsep",
+    "href": "dokumentasi-web/templat/knowledge-template.html#prasyarat-dan-relasi-konsep",
+    "title": "Templat Pengetahuan",
+    "section": "Prasyarat dan relasi konsep",
+    "text": "Prasyarat dan relasi konsep\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/knowledge-template.html#sumber-rujukan",
+    "href": "dokumentasi-web/templat/knowledge-template.html#sumber-rujukan",
+    "title": "Templat Pengetahuan",
+    "section": "Sumber rujukan",
+    "text": "Sumber rujukan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/knowledge-template.html#contoh-penerapan",
+    "href": "dokumentasi-web/templat/knowledge-template.html#contoh-penerapan",
+    "title": "Templat Pengetahuan",
+    "section": "Contoh penerapan",
+    "text": "Contoh penerapan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/knowledge-template.html#status-validasi",
+    "href": "dokumentasi-web/templat/knowledge-template.html#status-validasi",
+    "title": "Templat Pengetahuan",
+    "section": "Status validasi",
+    "text": "Status validasi\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/prompt-template.html",
+    "href": "dokumentasi-web/templat/prompt-template.html",
+    "title": "Templat Paket Prompt",
+    "section": "",
+    "text": "Sumber: templat/prompt-template.md\nID: …\nTujuan: …\nPembuat: …\nReviewer: …\nStatus: draft"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/prompt-template.html#konteks-dan-masukan",
+    "href": "dokumentasi-web/templat/prompt-template.html#konteks-dan-masukan",
+    "title": "Templat Paket Prompt",
+    "section": "Konteks dan masukan",
+    "text": "Konteks dan masukan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/prompt-template.html#instruksi-untuk-ai",
+    "href": "dokumentasi-web/templat/prompt-template.html#instruksi-untuk-ai",
+    "title": "Templat Paket Prompt",
+    "section": "Instruksi untuk AI",
+    "text": "Instruksi untuk AI\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/prompt-template.html#langkah-penggunaan",
+    "href": "dokumentasi-web/templat/prompt-template.html#langkah-penggunaan",
+    "title": "Templat Paket Prompt",
+    "section": "Langkah penggunaan",
+    "text": "Langkah penggunaan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/prompt-template.html#contoh-inputoutput",
+    "href": "dokumentasi-web/templat/prompt-template.html#contoh-inputoutput",
+    "title": "Templat Paket Prompt",
+    "section": "Contoh input/output",
+    "text": "Contoh input/output\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/prompt-template.html#pengujian-dan-batasan",
+    "href": "dokumentasi-web/templat/prompt-template.html#pengujian-dan-batasan",
+    "title": "Templat Paket Prompt",
+    "section": "Pengujian dan batasan",
+    "text": "Pengujian dan batasan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/skill-template.html",
+    "href": "dokumentasi-web/templat/skill-template.html",
+    "title": "Templat Paket Skill",
+    "section": "",
+    "text": "Sumber: templat/skill-template.md\nNama: …\nKategori: …"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/skill-template.html#tujuan-dan-prasyarat",
+    "href": "dokumentasi-web/templat/skill-template.html#tujuan-dan-prasyarat",
+    "title": "Templat Paket Skill",
+    "section": "Tujuan dan prasyarat",
+    "text": "Tujuan dan prasyarat\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/skill-template.html#tools-yang-diperlukan",
+    "href": "dokumentasi-web/templat/skill-template.html#tools-yang-diperlukan",
+    "title": "Templat Paket Skill",
+    "section": "Tools yang diperlukan",
+    "text": "Tools yang diperlukan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/skill-template.html#masukan",
+    "href": "dokumentasi-web/templat/skill-template.html#masukan",
+    "title": "Templat Paket Skill",
+    "section": "Masukan",
+    "text": "Masukan\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/skill-template.html#langkah-kerja",
+    "href": "dokumentasi-web/templat/skill-template.html#langkah-kerja",
+    "title": "Templat Paket Skill",
+    "section": "Langkah kerja",
+    "text": "Langkah kerja\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/skill-template.html#keluaran-dan-artefak",
+    "href": "dokumentasi-web/templat/skill-template.html#keluaran-dan-artefak",
+    "title": "Templat Paket Skill",
+    "section": "Keluaran dan artefak",
+    "text": "Keluaran dan artefak\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/skill-template.html#tes-dan-kriteria-selesai",
+    "href": "dokumentasi-web/templat/skill-template.html#tes-dan-kriteria-selesai",
+    "title": "Templat Paket Skill",
+    "section": "Tes dan kriteria selesai",
+    "text": "Tes dan kriteria selesai\n…"
+  },
+  {
+    "objectID": "dokumentasi-web/templat/skill-template.html#risiko-dan-batasan",
+    "href": "dokumentasi-web/templat/skill-template.html#risiko-dan-batasan",
+    "title": "Templat Paket Skill",
+    "section": "Risiko dan batasan",
+    "text": "Risiko dan batasan\n…"
+  }
+]

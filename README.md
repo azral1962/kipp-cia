@@ -23,6 +23,17 @@ Jalankan pengujian:
 pytest -q
 ```
 
+## Situs dokumentasi Quarto
+
+Buka `index.html` di akar repositori untuk menjelajahi dokumen Markdown proyek. Untuk merender ulang setelah mengubah atau menambahkan Markdown, jalankan dari akar repositori dengan Python dan Quarto CLI terpasang.
+
+```bash
+python3 08-aplikasi/skrip/bangun_dokumentasi.py
+python3 -m http.server 8000 --bind 127.0.0.1
+```
+
+Buka `http://127.0.0.1:8000/` agar pencarian Quarto berfungsi. Simpan `index.html`, `search.json`, dan folder `dokumentasi-web/` bersama-sama. Lingkungan virtual, konfigurasi tersembunyi lokal, dan direktori data pribadi dikecualikan dari pemindaian.
+
 Bot Telegram contoh (opsional; hanya `/help` dan `/find`, belum menggunakan AI):
 
 ```bash
